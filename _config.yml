@@ -1,0 +1,136 @@
+title: Data 100
+description: Principles and Techniques of Data Science
+author: Data 100 Staff
+baseurl: '/fa25'
+url: 'https://ds100.org'
+logo: 'resources/assets/favicon/panda-logo.png'
+
+# External navigation links
+nav_external_links:
+  - title: Course Notes
+    url: https://ds100.org/course-notes/
+    hide_icon: true
+    aria_label: "Data 100 Course Notes"
+  - title: Debugging Guide
+    url: https://ds100.org/debugging-guide/
+    hide_icon: true
+    aria_label: "Data 100 Debugging Guide"
+  # - title: Course FAQ
+  #   url: https://ds100.org/faqs/fa25/
+  #   hide_icon: true
+
+heading_anchors: false
+
+color_scheme: light
+
+# Collections for website data
+collections:
+  - modules
+  - announcements
+  - staffers
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
+  - scope:
+      path: '_staffers'
+      type: staffers
+    values:
+      layout: staffer
+      height: 300
+      width: 300
+      subpath: '/resources/assets/staff_pics/'
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+# Course variables
+course: DATA 100
+course_email: data100.instructors
+gradescope_course_id: 
+bcourses_course_id:
+ed_course_id:
+course_department: dsus
+class_archive_path: /
+
+sass:
+  style: compressed
+  sass_dir: _sass
+  sourcemap: always
+  quiet_deps: true
+  verbose: false
+
+# The sitemap **must** be enabled. It's published as /baseurl/sitemap.xml
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+
+# # Theme settings
+theme: just-the-docs
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+
+## Footer Content.
+# You should probably not change these, but may add to footer_content if necessary.
+# Replace `true` with any additional HTML that you would like to add.
+# Footer *must* included the accessibility text defined in footer_custom.html
+footer_content: true
+back_to_top: true
+back_to_top_text: "Back to Top"
+last_edit_timestamp: true
+last_edit_time_format: '%m %d, %Y at %H:%M'
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+# Likely not necessary, but a google default for Berkeley
+timezone: America/Los_Angeles
+
+# Note: dotfiles are excluded by default. .htaccess is included as a common case.
+include:
+  - LICENSE
+  - .htaccess
+  - robots.txt
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - README.md
+  - CONTRIBUTING.md
+  - tmp/
+  - spec/
+  - docs/
+  - node_modules/
