@@ -37,7 +37,7 @@ description: A listing of all the course staff members.
   {{ staffer }}
 {% endfor %}
 
-# UCS1s
+## UCS1s
 
 {% assign ucs1 = site.staffers | where: 'role', 'UCS1' %}
 {% for staffer in ucs1 %}
