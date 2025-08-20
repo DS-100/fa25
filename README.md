@@ -1,6 +1,7 @@
 # Data 100 Fall 2025 Website
 
-INSERT NEW BADGES HERE
+[![Deploy Jekyll site to Pages](https://github.com/DS-100/fa25/actions/workflows/jekyll.yml/badge.svg)](https://github.com/DS-100/fa25/actions/workflows/jekyll.yml)
+[![Run all page tests](https://github.com/DS-100/fa25/actions/workflows/rspec.yml/badge.svg)](https://github.com/DS-100/fa25/actions/workflows/rspec.yml)
 
 ## Installation
 
