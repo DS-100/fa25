@@ -88,6 +88,8 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
 
+plugins_dir: _plugins
+
 # # Theme settings
 theme: just-the-docs
 search_enabled: true
