@@ -1,0 +1,18 @@
+---
+title: Week 12
+---
+
+
+Tue Nov 11
+: **No Lecture**{: .label .label-lecture} Holiday: Veterans Day
+
+Wed Nov 12
+: **Discussion 9**{: .label .label-disc }
+
+Thu Nov 13
+: **Lecture 21**{: .label .label-lecture} [SQL II](lecture/lec21)
+    : [Note 21](https://ds100.org/course-notes/sql_II/sql_II.html)
+: **Lecture Participation 21**{: .label .label-survey} 
+
+Fri Nov 14
+: **Lab 11**{: .label .label-lab } [Logistic Regression](https://data100.datahub.berkeley.edu/){:target="_blank"} (due Mon Nov 4)
