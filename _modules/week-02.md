@@ -4,14 +4,14 @@ title: Week 2
 
 
 Tue Sep 2
-: **Lecture 2**{: .label .label-lecture } [Pandas I](_lectures/lec02)
+: {% lec 2 %}
     : [Note 2](https://ds100.org/course-notes/pandas_1/pandas_1.html)
 : **Lecture Participation 2**{: .label .label-survey }
 : **Discussion 1**{: .label .label-disc } 
 
 
 Thu Sep 4
-: **Lecture 3**{: .label .label-lecture} [Pandas II](_lectures/lec03)
+: {% lec 3 %}
     : [Note 3](https://ds100.org/course-notes/pandas_2/pandas_2.html)
 : **Lecture Participation 3**{: .label .label-survey } 
 

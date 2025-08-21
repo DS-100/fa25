@@ -25,9 +25,15 @@ color_scheme: light
 
 # Collections for website data
 collections:
-  - modules
-  - announcements
-  - staffers
+  modules:
+  announcements:
+  staffers:
+    sort_by: name
+  lectures:
+    output: true
+    sort_by: number # Date could work...
+    permalink: /lectures/:path/
+
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -87,6 +93,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-include-cache
+  - ./_plugins/asset_tags.rb
 
 plugins_dir: _plugins
 

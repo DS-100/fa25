@@ -1,8 +1,5 @@
 # frozen_string_literal: true
 
-puts "DEBUG: asset_tags.rb plugin is being loaded!" # Add this line
-
-
 require 'date'
 
 # TODO: We should be able to define a class that returns a
@@ -53,9 +50,9 @@ module Jekyll
       current_date = Date.today
       # add leading 0 to number if less than 10
       num_index = @number.to_i < 10 ? "0#{@number}" : @number
-      return "**Lecture #{@number}**{: .label .label-lec } #{lecture_title}" if lecture_date > current_date
+      return "**Lecture #{@number}**{: .label .label-lecture } #{lecture_title}" if lecture_date > current_date
 
-      "**Lecture #{@number}**{: .label .label-lec } [#{lecture_title}](lectures/#{num_index})"
+      "**Lecture #{@number}**{: .label .label-lecture } [#{lecture_title}](lectures/#{num_index})"
     end
   end
 

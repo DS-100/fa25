@@ -3,13 +3,13 @@ title: Week 3
 ---
 
 Tue Sep 9
-: **Lecture 4**{: .label .label-lecture } [Pandas III](_lectures/lec04)
+: {% lec 4 %}
     : [Note 4](https://ds100.org/course-notes/pandas_3/pandas_3.html)
 : **Lecture Participation 4**{: .label .label-survey } 
 : **Discussion 2**{: .label .label-disc }
 
 Thu Sep 11
-: **Lecture 5**{: .label .label-lecture } [Data Cleaning and EDA](lectures/lec05)
+: {% lec 5 %}
     : [Note 5](https://ds100.org/course-notes/eda/eda.html)
 : **Lecture Participation 5**{: .label .label-survey } 
 

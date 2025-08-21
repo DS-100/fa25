@@ -3,7 +3,7 @@ title: Week 4
 ---
 
 Tue Sep 16
-: **Lecture 6**{: .label .label-lecture} [Regex](_lectures/lec06)
+: {% lec 6 %}
     : [Note 6](https://ds100.org/course-notes/regex/regex.html)
 : **Lecture Participation 6**{: .label .label-survey } 
 : **Discussion 3**{: .label .label-disc } 
@@ -12,7 +12,7 @@ Wed Sep 17
 : **Drop Deadline (with fee)**{: .label .label-deadline } 11:59 PM
 
 Thu Sep 18
-: **Lecture 7**{: .label .label-lecture} [Visualization I](_lectures/lec07)
+: {% lec 7 %}
     : [Note 7](https://ds100.org/course-notes/visualization_1/visualization_1.html)
 : **Lecture Participation 7**{: .label .label-survey } 
 
