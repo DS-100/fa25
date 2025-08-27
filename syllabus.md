@@ -95,7 +95,7 @@ If you are enrolled in Data 100, you have 2 options:
 - **"No Discussion" Grading Scheme:** Instead, the 5% discussion weight will be redistributed to the assignments category. If you choose this option you will not be assigned to a discussion section.
 
 {: .note }
-> You can switch from the graded discussion option to the non-graded discussion option after the [Pre-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSdrDoPwGUv3ShWYtP0_4UKQ8D3jp1xCx6MO9qfGRaPky-hgYA/viewform?usp=header){:target="_blank"} is due (11:59PM (midnight) on August 31, 2025) and before September 4, 2025, so you are able to attend one discussion to gauge your interest. To do so, please make a private Ed post. You cannot switch from graded to non-graded after September 4, 2025. If you are unable to submit the form on time, we will assume you have opted for the non-graded discussion option.
+> You can switch from the graded discussion option to the non-graded discussion option after the [Pre-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSdrDoPwGUv3ShWYtP0_4UKQ8D3jp1xCx6MO9qfGRaPky-hgYA/viewform?usp=header){:target="_blank"} is due (11:59PM (midnight) on August 30, 2025) and before September 4, 2025, so you are able to attend one discussion to gauge your interest. To do so, please make a private Ed post. You cannot switch from graded to non-graded after September 4, 2025. If you are unable to submit the form on time, we will assume you have opted for the non-graded discussion option.
 
 Students are not permitted to switch between the two grading schemes once finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed.
 
