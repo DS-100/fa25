@@ -4,7 +4,7 @@ title: Week 4
 
 Tue Sep 16
 : {% lec 6 %}
-    : [Note 6](https://ds100.org/course-notes/regex/regex.html)
+    <!-- : [Note 6](https://ds100.org/course-notes/regex/regex.html) -->
 : **Lecture Participation 6**{: .label .label-survey } 
 : **Discussion 3**{: .label .label-disc } 
 
@@ -13,9 +13,9 @@ Wed Sep 17
 
 Thu Sep 18
 : {% lec 7 %}
-    : [Note 7](https://ds100.org/course-notes/visualization_1/visualization_1.html)
+    <!-- : [Note 7](https://ds100.org/course-notes/visualization_1/visualization_1.html) -->
 : **Lecture Participation 7**{: .label .label-survey } 
 
 Fri Sep 19
-: **Lab 3**{: .label .label-lab } [Regex, EDA](https://data100.datahub.berkeley.edu/){:target="_blank"} (due Wed Sep 24)
-: **Homework 3**{: .label .label-hw } [Text Analysis of New York Times Articles](https://data100.datahub.berkeley.edu/){:target="_blank"} (due Thu Sep 25)
+: **Lab 3**{: .label .label-lab } Regex, EDA (due Wed Sep 24)
+: **Homework 3**{: .label .label-hw } Text Analysis of New York Times Articles (due Thu Sep 25)

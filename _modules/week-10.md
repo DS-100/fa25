@@ -12,6 +12,6 @@ Thu Oct 30
 : **Lecture Participation 19**{: .label .label-survey } 
 
 Fri Oct 31
-: **Lab 9**{: .label .label-lab }  [Probability](https://data100.datahub.berkeley.edu/){:target="_blank"} (due Wed Nov 5)
-: **Homework 6**{: .label .label-hw } [Probability](https://data100.datahub.berkeley.edu/){:target="_blank"} (due Fri Nov 7)
+: **Lab 9**{: .label .label-lab }  Probability (due Wed Nov 5)
+: **Homework 6**{: .label .label-hw } Probability (due Fri Nov 7)
 : **Grade Option Change**{: .label .label-deadline } 11:59 PM

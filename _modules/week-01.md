@@ -8,4 +8,4 @@ Thu Aug 28
 : **Lecture Participation 1**{: .label .label-survey } 
 
 Fri Aug 29
-: **Lab 1**{: .label .label-lab } [Prerequisite Coding](https://data100.datahub.berkeley.edu/) (due Wed Sep 3)
+: **Lab 1**{: .label .label-lab } Prerequisite Coding (due Wed Sep 3)
