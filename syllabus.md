@@ -6,7 +6,7 @@ description: >-
     Principles and Techniques of Data Science
 markdown: kramdown
 course:
-    semester: Spring 2025
+    semester: Summer 2025
     edstem: https://edstem.org/us/courses/74189
     bcourses: ""
     comms_email: data100.support@berkeley.edu
@@ -66,11 +66,12 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 
 ### Lecture
 
-There are 2 live **lectures** held on Tuesdays and Thursdays, 5:00pm-6:30pm, hybrid: in-person in Wheeler 150 and broadcasted live on Zoom. All session recordings, slides, activities, and examples will be uploaded to the course website within 24 hours of the lecture. 
+There are 2 live **lectures** held on Tuesdays and Thursdays, 11:00am-12:30pm, hybrid: in-person in Wheeler 150 and broadcasted live on Zoom. All session recordings, slides, activities, and examples should be uploaded to the course website within 24 hours of the lecture. 
 
 **Lecture participation**: While synchronous lecture attendance (in-person or through Zoom) is not mandatory, we expect you to "participate" in lecture by answering lecture poll questions in one of two ways: (1) synchronously during the lecture as poll questions are launched; or (2) asynchronously using a link provided after lecture.
+
 - Lecture participation is graded using poll responses on a 0/1 basis.
-  - Synchronous Participation: complete at least one participation poll question during the live lecture timeslot (5:00pm-6:30pm, Tuesdays and Thursdays). As long as you submit a response to at least one poll question in this timeframe, you will receive synchronous attendance credit.
+  - Synchronous Participation: complete at least one participation poll question during the live lecture timeslot (11:00am-12:30pm, Tuesdays and Thursdays). As long as you submit a response to at least one poll question in this timeframe, you will receive synchronous attendance credit.
   - Asynchronous Participation: complete all participation poll questions from the link provided on the course website within one week of the corresponding lecture.
   - In both cases, participation is graded on completion, not correctness.
 - See the [Policies](#policies) section for lecture participation drops.
@@ -78,7 +79,7 @@ There are 2 live **lectures** held on Tuesdays and Thursdays, 5:00pm-6:30pm, hyb
 
 ### Discussion
 
-Live **discussion sections** are one hour long, and held on Wednesdays or Thursdays. The goal of these TA-led sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding course material. 
+Live **discussion sections** are one hour long, and held once a week on Tuesday or Wednesday. The goal of these TA-led sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding course material. 
 
 The lectures, assignments, and exams of this course are structured with the **expectation that all students complete the tasks in the discussion worksheet, either by attending section or on their own time.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions.
 
@@ -121,7 +122,7 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 
 ### Exams
 
-There will be two exams in this course:
+There will be **three** exams in this course:
 
 {: .important}
 > - **Midterm** on **Wednesday March 12** from 8pm-10pm
