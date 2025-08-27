@@ -126,11 +126,11 @@ There are three exams in this course:
 
 {: .important}
 
-> - **Computer-Based Midterm 1** ON **Wednesday, October 15** OR **Thursday, October 16** OR **Friday, October 17** (1 Hour)
-> - **Computer-Based Midterm 2** ON **Wednesday, November 19** OR **Thursday, November 20** OR **Friday, November 21** (1 Hour)
+> - **Computer-Based Midterm 1** ON **Wednesday, October 15** OR **Thursday, October 16** OR **Friday, October 17** (You will sign up for a 1 hour slot)
+> - **Computer-Based Midterm 2** ON **Wednesday, November 19** OR **Thursday, November 20** OR **Friday, November 21** (You will sign up for a 1 hour slot)
 > - **Paper-Based Final** ON **Wednesday, December 17** FROM **11:30am-2:30pm** (3 Hours)
 
-We will administers the midterms in two of the computer-based testing facilities on campus. More information will be provided shortly after the semester begins, including instructions for students with DSP accommodations.
+We will administers the midterms in a computer-based testing facility on campus. More information will be provided shortly after the semester begins, including instructions for students with DSP accommodations.
 
 ### Graduate Final Project
 
@@ -174,7 +174,7 @@ Course Communication:
 | Final | 30% | 30% | 30% | - | |
 | Graduate Final Project| - | - | 15% | 35% | |
 
-**To pass this course, students must achieve a total weighted average percentage of at least 50% across the midterms and final.** This means that even if a student excels in other components of the course, a total weighted average below 50% on these exams will result in a failing grade for the course.
+**To pass this course, students must achieve a total weighted average percentage of at least 50% across the midterms and final.** This means that even if a student excels in other components of the course, a total weighted average below 50% on these exams will result in a failing grade for the course. 
 
 **Data 200S students must achieve at least 50% in the Graduate Final Project to pass the course.**
 
