@@ -5,3 +5,4 @@ email: emrieloh53@berkeley.edu
 photo: Emrie_Loh.jpg
 pronouns: He/Him
 ---
+Wait... I'm a senior now?!
