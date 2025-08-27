@@ -1,5 +1,5 @@
 ---
-name: Hirdayaa Harian
+name: Hridayaa Hariani
 role: UCS1
 email: hhariani@berkeley.edu
 photo: ...

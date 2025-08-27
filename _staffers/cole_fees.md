@@ -1,5 +1,5 @@
 ---
-name: Clinton Fees
+name: Cole Fees
 role: UCS1
 email: clinton.c.fees@berkeley.edu
 photo: ...

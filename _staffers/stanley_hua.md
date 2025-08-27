@@ -1,5 +1,5 @@
 ---
-name: Yuhan Hua
+name: Stanley Hua
 role: UCS1
 email: yhhua@berkeley.edu
 photo: ...
