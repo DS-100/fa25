@@ -2,7 +2,7 @@
 name: Henry Hong
 role: UCS1
 email: hhong@berkeley.edu
-photo: Henry_Hong.jpg
+photo: Henry_Hong.jpeg
 pronouns: He/Him/His
 website: https://henryyhong.github.io/
 ---

@@ -2,7 +2,7 @@
 name: Sara Eginova
 role: UCS2
 email: eginovasardaana@berkeley.edu
-photo: Sardaana_Eginova.jpg
+photo: Sara_Eginova.jpg
 pronouns: She/Her/Hers
 website: https://daanaea.github.io/i
 ---
