@@ -6,7 +6,7 @@ description: >-
     Principles and Techniques of Data Science
 markdown: kramdown
 course:
-    semester: Summer 2025
+    semester: Fall 2025
     edstem: https://edstem.org/us/courses/74189
     bcourses: ""
     comms_email: data100.support@berkeley.edu
@@ -53,10 +53,10 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 | Mo | Tu | We | Th | Fr |
 | --- | --- | --- | --- | --- | 
 |  | <span style="color:Green">Live Lecture</span> |  | <span style="color:Green">Live Lecture</span> |  |
-|  |  | <span style="color:Blue">Discussion Section</span> | <span style="color:Blue">Discussion Section</span> |  |
+|  | <span style="color:Blue">Discussion Section</span> | <span style="color:Blue">Discussion Section</span> |  |  |
 | Office Hours |  | Office Hours | Office Hours | Office Hours |
-|  |  |  | <span style="color: #c91d1d">**Homework N-1 due**</span> | <span style="color:#c91d1d">Homework N released</span> |
-|  | <span style="color:#c91d1d">**Lab N-1 due**</span> |  | <span style="color:#c91d1d">Lab N released</span> |  |
+|  |  |  | <span style="color:#c91d1d">Homework N released</span> <br> <span style="color: #c91d1d">**Homework N-1 due**</span> |  |
+|  |  | <span style="color:#c91d1d">**Lab N-1 due**</span> | <span style="color:#c91d1d">Lab N released</span> |  |
 
 
 - **All deadlines are subject to change.**
@@ -83,7 +83,7 @@ Live **discussion sections** are one hour long, and held once a week on Tuesday 
 
 The lectures, assignments, and exams of this course are structured with the **expectation that all students complete the tasks in the discussion worksheet, either by attending section or on their own time.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions.
 
-Each week, we will provide a conceptual review covering the topics pertinent to the discussion worksheet on a YouTube playlist TBA. Slides for the content review are linked TBA. We recommend watching the content review before your discussion section. Discussion sections will not include any content review, they will solely be focused on problem-solving and Q&A.
+Each week, we will provide a conceptual review covering the topics pertinent to the discussion worksheet on a YouTube playlist TBA. Slides for the content review are linked TBA. **We expect you watch the content review before your discussion section.** Discussion sections will not include any content review, they will solely be focused on problem-solving and Q&A.
 
 {: .important }
 > This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. Discussion sections will commence in the second week of class, and students will need to choose between the two grading schemes, and these decisions will be final. Students who choose the Graded Discussion will be assigned a discussion attendance based on their availability. Please note that discussion attendance is not mandatory for students enrolled in Data 200 and Data 200S.
@@ -95,9 +95,9 @@ If you are enrolled in Data 100, you have 2 options:
 - **"No Discussion" Grading Scheme:** Instead, the 5% discussion weight will be redistributed to the assignments category. If you choose this option you will not be assigned to a discussion section.
 
 {: .note }
-> You can switch from the graded discussion option to the non-graded discussion option after the [Pre-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSehM7P5Q56uskI00wofpOsXL4xQaYK97vY7l0AvLAlmguLgXQ/viewform?usp=header){:target="_blank"} is due (11:59AM (noon) on January 24, 2025) and before January 31, 2025, so you are able to attend one discussion to gauge your interest. To do so, please make a private Ed post or email [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). You cannot switch from graded to non-graded after January 31, 2025. If you are unable to submit the form on time, we will assume you have opted for the non-graded discussion option.
+> You can switch from the graded discussion option to the non-graded discussion option after the [Pre-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSdrDoPwGUv3ShWYtP0_4UKQ8D3jp1xCx6MO9qfGRaPky-hgYA/viewform?usp=header){:target="_blank"} is due (11:59PM (midnight) on August 31, 2025) and before September 4, 2025, so you are able to attend one discussion to gauge your interest. To do so, please make a private Ed post. You cannot switch from graded to non-graded after September 4, 2025. If you are unable to submit the form on time, we will assume you have opted for the non-graded discussion option.
 
-Students are not permitted to switch between the two grading schemes once finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed or [data100.instructors@berkeley.edu](mailto:{{page.course.email}}).
+Students are not permitted to switch between the two grading schemes once finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed.
 
 Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade breakdown.
 
@@ -105,7 +105,7 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 
 **Homeworks** are week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture. **Projects** are 2-week assignments (with a weekly checkpoint) that synthesize multiple topics.
 
-- All homeworks and projects must be submitted to Gradescope by their posted deadlines. There may be separate coding and written Gradescope portals for the same assignment; please check that you are submitting the right part.
+- All homeworks and projects must be submitted to Pensieve by their posted deadlines. There may be separate coding and written Pensieve portals for the same assignment; please check that you are submitting the right part.
 - Homeworks and projects have both public (visible) and hidden autograder tests. The public tests are mainly sanity checks. For example, a sanity check might verify that the answer you entered is a number as expected, and not a word. The hidden tests generally check for correctness, and are invisible to students while they are completing the assignment.
 - The primary form of support students will have for homeworks and projects are **office hours** and **Ed**.
 - Homeworks and projects must be completed individually, without the usage of any unauthorized resources (CourseHero, ChatGPT, etc). See the [Collaboration Policy](#collaboration-policy-and-academic-honesty) for more details.
@@ -113,7 +113,7 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 ### Lab
 
 **Labs** are shorter, weekly programming assignments designed to give students familiarity with new ideas. They are meant to be completed prior to homework.
-- All lab assignments must be submitted to Gradescope by their posted deadlines.
+- All lab assignments must be submitted to Pensieve by their posted deadlines.
 - All lab autograder tests are public (visible).
 - We will not be having lab sections for Data 100/200 this semester. Rather, we'll provide extensive lab support on Ed and accompanying video walkthroughs.
 - All labs are intended to take about an hour.
@@ -122,13 +122,15 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 
 ### Exams
 
-There will be **three** exams in this course:
+There are three exams in this course:
 
 {: .important}
-> - **Midterm** on **Wednesday March 12** from 8pm-10pm
-- **Final** on **Friday May 16** from 11:30am-2:30pm
 
-**All exams must be taken in-person.** There will be no alternate exams offered.
+> - **Computer-Based Midterm 1** ON **Wednesday, October 15** OR **Thursday, October 16** OR **Friday, October 17** (1 Hour)
+> - **Computer-Based Midterm 2** ON **Wednesday, November 19** OR **Thursday, November 20** OR **Friday, November 21** (1 Hour)
+> - **Paper-Based Final** ON **Wednesday, December 17** FROM **11:30am-2:30pm** (3 Hours)
+
+We will administers the midterms in two of the computer-based testing facilities on campus. More information will be provided shortly after the semester begins, including instructions for students with DSP accommodations.
 
 ### Graduate Final Project
 
@@ -139,21 +141,21 @@ All students enrolled in the graduate version of the course (CS C200A or Stat C2
 We want to enable everyone to succeed in this course. We encourage you to discuss course content with your friends, classmates, and course staff throughout the semester, particularly during **office hours**.
 
 - All office hours will be updated on the Calendar.
-- In-person course staff office hours will be held in Warren Hall 101B.
-- In general, students can come to staff office hours for any	 questions on course assignments or material.
+- In-person course staff office hours will be held in Warren Hall 101B. Check the calendar to see what section our staff is in.
+- In general, students can come to staff office hours for any questions on course assignments or material.
 - Instructor office hours are generally reserved for conceptual questions, course review,  course logistics, research opportunities, and career planning.
 
 
 Course Communication:
 
-- **EdStem**, or **Ed** for short, is our course forum this semester. **_All course announcements will be through Ed._** We are not using bCourses this semester. Please check out [Ed](https://edstem.org/us/courses/74189){:target="_blank"} or the [FAQ](https://ds100.org/faqs/sp25/){:target="_blank"} page first before emailing course staff directly.
+- **EdStem**, or **Ed** for short, is our course forum this semester. **_All course announcements will be through Ed._** We are not using bCourses this semester. Please check out [Ed](https://edstem.org/us/courses/83980){:target="_blank"} or the [FAQ](https://ds100.org/faqs/fa25/){:target="_blank"} page first before emailing course staff directly.
 
     - Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley’s Principles of Community](https://diversity.berkeley.edu/principles-community){:target="_blank"} and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/code-of-conduct/){:target="_blank"}.
 
     - Ed is your primary platform for asking questions about the class. It is monitored daily by course staff, so questions posted to Ed will likely receive the fastest response. If you need to discuss a more sensitive matter, the following emails are monitored by a smaller subset of the teaching team:
 
 - For sensitive questions: our course staff email is [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). This email is monitored by the instructors, the head TAs, and a few lead TAs.
-- For course accomodations/DSP: student accommodation requests will be handled via the [Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe23BU7DocByEPYt6YV00rOTn7K1AVj7Fqpw2eOgWG0Q5GtDw/viewform?usp=sharing){:target="_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu]((mailto:{{page.course.comms_email}})).
+- For course accomodations/DSP: student accommodation requests will be handled via the [Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSeLQXhbxlbenjEkhbonBrd6XFiKoPXgq2B7VBvKwYbW9a49dA/viewform?usp=header){:target="_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu]((mailto:{{page.course.comms_email}})).
     - Please only contact the course instructors directly for matters that require strict privacy and their personal attention.
 
 ## Policies
@@ -167,17 +169,18 @@ Course Communication:
 | Labs | 5% | 5% |  - |  5% | Drop 2 lowest scores |
 | Discussions | 5% | - | - | - | Drop 3 lowest scores |
 | Lecture Participation | 5% | 5% | 5% | 5% | Drop 3 lowest scores |
-| Midterm Exam | 20% | 20% | 20% | - | |
-| Final Exam | 30% | 30% | 30% | - | |
+| Midterm 1 | 10% | 10% | 10% | - | |
+| Midterm 2 | 10% | 10% | 10% | - | |
+| Final | 30% | 30% | 30% | - | |
 | Graduate Final Project| - | - | 15% | 35% | |
 
-**To pass this course, students must achieve a total weighted average percentage of at least 50% across the midterm and final exams.** This means that even if a student excels in other components of the course, a total weighted average below 50% on these exams will result in a failing grade for the course.
+**To pass this course, students must achieve a total weighted average percentage of at least 50% across the midterms and final.** This means that even if a student excels in other components of the course, a total weighted average below 50% on these exams will result in a failing grade for the course.
 
 **Data 200S students must achieve at least 50% in the Graduate Final Project to pass the course.**
 
 It is your responsibility to know if you are enrolled in Data 100 or Data 200 or Data 200S.
 
-While we do not have homework drops this semester, we will offer slip days for homeworks/projects, as well as an [Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe23BU7DocByEPYt6YV00rOTn7K1AVj7Fqpw2eOgWG0Q5GtDw/viewform?usp=sharing){:target="_blank"}. See the next sections for more details.
+While we do not have homework drops this semester, we will offer slip days for homeworks/projects, as well as an [Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSeLQXhbxlbenjEkhbonBrd6XFiKoPXgq2B7VBvKwYbW9a49dA/viewform?usp=header){:target="_blank"}. See the next sections for more details.
 
 
 ### On-Time Submission
@@ -188,7 +191,7 @@ All assignments are due at **_11:59 PM Pacific Time_** on the due date specified
 
 Each student gets an extension budget of **12** total slip days for the 12 homeworks and projects (so use them wisely). You can apply these slip days to homework and projects only (not labs) during the semester.
 
-Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. We will use the submission time as displayed on Gradescope. 
+Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. We will use the submission time as displayed on Pensieve. 
 
 {: .note }
 > If all 12 slip days are used for the first three homework assignments (for example), you are out of slip days and cannot ask us to not consider one of the slip days previously used. 
@@ -200,11 +203,11 @@ Each project or homework can have a maximum of **4** slip days applied. After 4 
 
 We recognize that our students come from varied backgrounds and have widely-varying experiences. If you require any additional accommodations any time in the semester, please do not hesitate to let us know. The sooner we are made aware, the more options we have available for us to help you.
 
-The **[Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe23BU7DocByEPYt6YV00rOTn7K1AVj7Fqpw2eOgWG0Q5GtDw/viewform?usp=sharing){:target="_blank"}** is for any circumstances that cannot be resolved via slip days and drops. Within two business days of filling out the form, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). 
+The **[Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSeLQXhbxlbenjEkhbonBrd6XFiKoPXgq2B7VBvKwYbW9a49dA/viewform?usp=header){:target="_blank"}** is for any circumstances that cannot be resolved via slip days and drops. Within two business days of filling out the form, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). 
 
-We recognize that at times, it can be difficult to manage your course performance - particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). The [Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe23BU7DocByEPYt6YV00rOTn7K1AVj7Fqpw2eOgWG0Q5GtDw/viewform?usp=sharing){:target="_blank"} is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. So please do not hesitate to reach out.
+We recognize that at times, it can be difficult to manage your course performance - particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). The [Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSeLQXhbxlbenjEkhbonBrd6XFiKoPXgq2B7VBvKwYbW9a49dA/viewform?usp=header){:target="_blank"} is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. So please do not hesitate to reach out.
 
-Note that you **cannot** use the Additional Accommodations Form if you encounter a logistical oversight, such as Datahub/Gradescope tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on Gradescope. It is the students’ responsibility to identify and resolve these issues well in advance of the on-time deadline. 
+Note that you **cannot** use the Additional Accommodations Form if you encounter a logistical oversight, such as Datahub/Pensieve tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on Pensieve. It is the students’ responsibility to identify and resolve these issues well in advance of the on-time deadline. 
 We will not grant accommodations for these cases; instead, please use slip days to cushion these submission errors.
 
 Finally, simply submitting a request does not guarantee you will receive an extension. You must submit your requests before running out of slip days. **Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.**
@@ -214,15 +217,15 @@ Finally, simply submitting a request does not guarantee you will receive an exte
 
 {: .important }
 
-If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). DSP students who receive approved extension accommodations will have an automatic 2-day extension on labs, homeworks, and projects. Please note that any extension, plus the slip days combined, cannot exceed **7 days**. Beyond 7 days, you are required to meet with a TA. DSP students can use the **[Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe23BU7DocByEPYt6YV00rOTn7K1AVj7Fqpw2eOgWG0Q5GtDw/viewform?usp=sharing){:target="_blank"}** to request extension accommodations beyond the provided 2-days.
+If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). DSP students who receive approved extension accommodations will have an automatic 2-day extension on labs, homeworks, and projects. Please note that any extension, plus the slip days combined, cannot exceed **7 days**. Beyond 7 days, you are required to meet with a TA. DSP students can use the **[Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSeLQXhbxlbenjEkhbonBrd6XFiKoPXgq2B7VBvKwYbW9a49dA/viewform?usp=header){:target="_blank"}** to request extension accommodations beyond the provided 2-days.
 
 You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. **Even if your work is incomplete, please submit before the deadline so you can receive work for the work you did complete.**
 
 ### Regrade Requests
 
-Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through Gradescope, and autograder regrades via a Google Form. The deadline for regrade requests (autograded and written) is one week after the grades are released for the corresponding assignment.
+Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through Pensieve, and autograder regrades via a Google Form. The deadline for regrade requests (autograded and written) is one week after the grades are released for the corresponding assignment.
 
-**Always check that the autograder executes correctly!** Gradescope will show you the output of the public tests, and you should see the same results as you did on DataHub. If you see a discrepancy, ensure that you have exported the assignment correctly and, if there is still an issue, post on Ed _as soon as possible_.
+**Always check that the autograder executes correctly!** Pensieve will show you the output of the public tests, and you should see the same results as you did on DataHub. If you see a discrepancy, ensure that you have exported the assignment correctly and, if there is still an issue, post on Ed _as soon as possible_.
 
 Regrade requests will **not** be considered in cases in which:
 
