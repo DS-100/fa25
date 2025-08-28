@@ -33,7 +33,7 @@ currWeekNumber: 1
 >
 > Welcome to [Week {{page.currWeekNumber}}](#week-{{page.currWeekNumber}}) of Data 100!
 > 
-> Lectures will be webcast on [Zoom](){:target="\_blank"}.
+> Lectures will be webcast on [Zoom](https://berkeley.zoom.us/j/98761698690){:target="\_blank"}.
 
 
 
