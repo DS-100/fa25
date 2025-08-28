@@ -5,14 +5,14 @@ title: Week 2
 Tue Sep 2
 : {% lec 2 %}
     <!-- : [Note 2](https://ds100.org/course-notes/pandas_1/pandas_1.html) -->
-: **Lecture Participation 2**{: .label .label-survey }
+: **Lecture Participation 2**{: .label .label-survey } Slido
 : **Discussion 1**{: .label .label-disc } 
 
 
 Thu Sep 4
 : {% lec 3 %}
     <!-- : [Note 3](https://ds100.org/course-notes/pandas_2/pandas_2.html) -->
-: **Lecture Participation 3**{: .label .label-survey } 
+: **Lecture Participation 3**{: .label .label-survey } Slido
 
 Fri Sep 5
 : **Lab 2A**{: .label .label-lab } Pandas (due Wed Sep 10)

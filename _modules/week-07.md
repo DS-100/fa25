@@ -5,7 +5,7 @@ title: Week 7
 Tue Oct 7
 : {% lec 12 %}
     <!-- : [Note 12](https://ds100.org/course-notes/ols/ols.html) -->
-: **Lecture Participation 12**{: .label .label-survey }
+: **Lecture Participation 12**{: .label .label-survey } Slido
 : **Discussion 6**{: .label .label-disc }
 
 Thu Oct 9
