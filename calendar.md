@@ -47,6 +47,6 @@ To access `in-person office hours`, go to the room in the location of the office
 
 To access `virtual office hours`, place your ticket on the [queue](http://oh.ds100.org/){:target="_blank"} and then join the call with the "Join Call" button when your name is pulled.
 
-`Instructor office hours` with Prof. Grossman and Prof. Norouzi appear in <span style="color:#0B8043">**green**</span>. You should come to these with questions about concepts.
+`Instructor office hours` with Prof. Grossman appear in <span style="color:#0B8043">**green**</span>. You should come to these with questions about concepts.
 
 <iframe data-a11y-errors="true" title= "Google Calendar of Data 100 Office Hours" src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&mode=WEEK&src=Y190OGE0MzY1cGhmY20wMGUyOW1oMXVha3Fuc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19wZjBhcmZlYnBndGtiNTJlb25jbzNxMmVwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19hZWNnMGE0djVlYmdjbDh0amo3cTcyNm9wNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19pZmlxOTA3MGI5OGprMDJoYnI4cDM3djNlc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=c_469240f03417bcbdddb731b455bbff98dba55de11c5afb03fff0657e39522b54%40group.calendar.google.com&color=%237CB342&color=%23795548&color=%233F51B5&color=%230B8043&color=%235229A3" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
