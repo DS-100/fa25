@@ -16,7 +16,7 @@ Jump to:
 {:toc}
 
 ## Reference Sheet
-Here is the Spring 2025 Final [Reference Sheet](resources/assets/other/final_ref_sheet.pdf){:target="_blank"}.
+Here is the Summer 2025 Midterm [Reference Sheet](assets\exams\su25\su25_mt_reference_sheet.pdf) and Final [Reference Sheet](assets\exams\su25\su25_final_reference_sheet.pdf).
 
 ## Supplementary Course Notes
 Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes/). 
@@ -37,6 +37,7 @@ You can also review [Exam Questions by Topic here.](https://docs.google.com/docu
 
 | Semester | Midterm 1 | Midterm 2  | Final | Reference Sheet |
 | -- | -- | -- | -- | -- |
+|Summer 2025| [Exam](assets/exams/su25/su25_mt.pdf) [(Solutions)](assets/exams/su25/su25_mt_sol.pdf)| | Final to be posted [(Solutions)](assets/exams/su25/su25_final_sol.pdf) | [Midterm](assets\exams\su25\su25_mt_reference_sheet.pdf), [Final](assets\exams\su25\su25_final_reference_sheet.pdf) |
 |Spring 2025| [Exam](assets/exams/sp25/sp25_mt.pdf) [(Solutions)](assets/exams/sp25/sp25_mt_sols.pdf)| | [Exam](assets/exams/sp25/sp25_final.pdf) [(Solutions)](assets/exams/sp25/sp25_final_sols.pdf) | [Midterm](assets\exams\sp25\sp25_mt_reference_sheet.pdf), [Final](assets\exams\sp25\sp25_final_reference_sheet.pdf) |
 |Fall 2024| [Exam](assets/exams/fa24/fa24_mt.pdf) [(Solutions)](assets/exams/fa24/fa24_midterm_sol.pdf)| | [Exam](assets/exams/fa24/fa24_finals_qs.pdf) [(Solutions)](assets/exams/fa24/fa24_finals_sols.pdf)| [Midterm](assets\exams\fa24\fa24_mt_reference_sheet.pdf), [Final](assets\exams\fa24\fa24_final_reference_sheet.pdf) |
 |Summer 2024| [Exam](assets/exams/su24/su24_mt.pdf) [(Solutions)](assets/exams/su24/su24_mt_sol.pdf) [[Walkthrough]](https://www.youtube.com/playlist?list=PLQCcNQgUcDfq-uOcGFHW25xUgXeK9b8Ow) | | [Exam](assets/exams/su24/su24_final.pdf) [(Solutions)](assets/exams/su24/su24_final_sol.pdf) | [Midterm](assets\exams\su24\su24_mt_reference_sheet.pdf), [Final](assets\exams\su24\su24_final_reference_sheet.pdf) |
