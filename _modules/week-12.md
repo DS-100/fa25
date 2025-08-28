@@ -6,7 +6,7 @@ Tue Nov 11
 : **No Lecture**{: .label .label-lecture} Holiday: Veterans Day
 
 Wed Nov 12
-: **Discussion 9**{: .label .label-disc } 
+: **Discussion 9**{: .label .label-disc } SQL
 
 Thu Nov 13
 : {% lec 22 %}
@@ -14,4 +14,4 @@ Thu Nov 13
 : **Lecture Participation 22**{: .label .label-survey} Slido
 
 Fri Nov 14
-: **Lab 11**{: .label .label-lab } Logistic Regression (due Mon Nov 4)
+: **Lab 11**{: .label .label-lab } Logistic Regression (due Mon 11/4)
