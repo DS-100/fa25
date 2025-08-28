@@ -3,7 +3,8 @@ title: Week 12
 ---
 
 Tue Nov 11
-: **No Lecture**{: .label .label-lecture} Holiday: Veterans Day
+: **Holiday**{: .label .label-exam} Veterans Day
+: **No Lecture**{: .label .label-lecture}
 
 Wed Nov 12
 : **Discussion 9**{: .label .label-disc } SQL

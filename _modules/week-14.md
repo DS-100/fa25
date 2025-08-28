@@ -9,4 +9,5 @@ Tue Nov 25
 : **Discussion 13**{: .label .label-disc } PCA + Clustering I
 
 Thu Nov 27
-: **No Lecture**{: .label .label-lecture} Holiday: Thanksgiving
+: **Holiday**{: .label .label-exam} Thanksgiving
+: **No Lecture**{: .label .label-lecture}
