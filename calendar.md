@@ -22,7 +22,7 @@ This calendar contains times for
 - Lectures (in <span style="color:brown">**brown**</span>)
 - In-person discussion sections (in <span style="color:#8E24AA">**purple**</span>)
 - Remote discussion sections (in <span style="color:blue">**blue**</span>)
-- Catch-up sections (in <span style="color:#7cb442">**lime green**</span>)
+- Catch-up sections (in <span style="color:green">**green**</span>)
 
 <!-- **Note: All events on this calendar are virtual.** -->
 
