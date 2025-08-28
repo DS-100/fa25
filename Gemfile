@@ -48,7 +48,7 @@ end
 # gem 'github-pages', group: :jekyll_plugins
 # gem 'jekyll', '~> 4'
 # gem 'kramdown-parser-gfm'
-# gem 'tzinfo-data'
+gem 'tzinfo-data'
 
 # group :jekyll_plugins do
 #   gem 'jekyll-github-metadata', '~> 2.16'

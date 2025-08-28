@@ -128,7 +128,7 @@ There are three exams in this course:
 
 > - **Computer-Based Midterm 1** ON **Wednesday, October 15** OR **Thursday, October 16** OR **Friday, October 17** (You will sign up for a 1 hour slot)
 > - **Computer-Based Midterm 2** ON **Wednesday, November 19** OR **Thursday, November 20** OR **Friday, November 21** (You will sign up for a 1 hour slot)
-> - **Paper-Based Final** ON **Wednesday, December 17** FROM **11:30am-2:30pm** (3 Hours)
+> - **Paper-Based Final** ON **Wednesday, December 17** FROM **8:00am-11:00am** (3 Hours)
 
 We will administers the midterms in a computer-based testing facility on campus. More information will be provided shortly after the semester begins, including instructions for students with DSP accommodations.
 
