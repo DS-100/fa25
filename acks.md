@@ -27,5 +27,6 @@ Fernando Pérez,
 Suraj Rampure,
 Allen Shen,
 Alvin Wan,
+Michael Xiao,
 and
 Lisa Yan.

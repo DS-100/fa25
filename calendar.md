@@ -22,13 +22,13 @@ This calendar contains times for
 - Lectures (in <span style="color:brown">**brown**</span>)
 - In-person discussion sections (in <span style="color:#8E24AA">**purple**</span>)
 - Remote discussion sections (in <span style="color:blue">**blue**</span>)
-<!-- - Exam prep sections and other reviews (in <span style="color:SeaGreen">**green**</span>) -->
+- Catch-up sections (in <span style="color:green">**green**</span>)
 
 <!-- **Note: All events on this calendar are virtual.** -->
 
 <!-- To access these events, use the Zoom links posted in <b><a href="">@6 on Piazza</a></b>. -->
 
-<iframe data-a11y-errors="true" title="Google Calendar of Data 100 Course Events" src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&mode=WEEK&src=c_fo7b35sk65gnagmvjhs0kccts8%40group.calendar.google.com&src=c_u4atmeatlp76veu27vo0arnm6c%40group.calendar.google.com&src=c_0126f8dc8dc6b4a4ad7cd0f2f81a0b6f457ca5cc7c7e7e1de57b9d7bdadc1b4c%40group.calendar.google.com&src=c_0876a99b5cccab9c188e791fd28672d821a678e0d44ba1265423d3c834a70de3%40group.calendar.google.com&color=%23795548&color=%23F09300&color=%233F51B5&color=%237CB342" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe data-a11y-errors="true" title="Google Calendar of Data 100 Course Events" src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&mode=WEEK&src=c_fo7b35sk65gnagmvjhs0kccts8%40group.calendar.google.com&src=c_u4atmeatlp76veu27vo0arnm6c%40group.calendar.google.com&src=c_0126f8dc8dc6b4a4ad7cd0f2f81a0b6f457ca5cc7c7e7e1de57b9d7bdadc1b4c%40group.calendar.google.com&src=c_0876a99b5cccab9c188e791fd28672d821a678e0d44ba1265423d3c834a70de3%40group.calendar.google.com&color=%23795548&color=%23F09300&color=%233F51B5&color=%23388E3C" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <br>
 
@@ -47,6 +47,6 @@ To access `in-person office hours`, go to the room in the location of the office
 
 To access `virtual office hours`, place your ticket on the [queue](http://oh.ds100.org/){:target="_blank"} and then join the call with the "Join Call" button when your name is pulled.
 
-`Instructor office hours` with Prof. Grossman and Prof. Norouzi appear in <span style="color:#0B8043">**green**</span>. You should come to these with questions about concepts.
+`Instructor office hours` with Prof. Grossman appear in <span style="color:#0B8043">**green**</span>. You should come to these with questions about concepts.
 
 <iframe data-a11y-errors="true" title= "Google Calendar of Data 100 Office Hours" src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&mode=WEEK&src=Y190OGE0MzY1cGhmY20wMGUyOW1oMXVha3Fuc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19wZjBhcmZlYnBndGtiNTJlb25jbzNxMmVwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19hZWNnMGE0djVlYmdjbDh0amo3cTcyNm9wNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19pZmlxOTA3MGI5OGprMDJoYnI4cDM3djNlc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=c_469240f03417bcbdddb731b455bbff98dba55de11c5afb03fff0657e39522b54%40group.calendar.google.com&color=%237CB342&color=%23795548&color=%233F51B5&color=%230B8043&color=%235229A3" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
