@@ -18,6 +18,10 @@ body {
   overflow-wrap: break-word;
 }
 
+h1, h2, h3, h4, h5, h6, .serif {
+  font-family: "Source Serif 4", "Georiga", "Baskerville", serif;
+}
+
 // Link Colors
 a,
 .main-content .anchor-heading svg {
@@ -50,6 +54,10 @@ h1, h2, h3, h4, h5, h6,
 code {
   padding: 0.2em 0.4em;
   border: none;
+}
+
+blockquote.note > * {
+  color: $darker-text-color;
 }
 
 iframe {

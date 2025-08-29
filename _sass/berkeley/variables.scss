@@ -8,7 +8,7 @@ $content-width: 1200px;
 $mono-font-family: "Source Code Pro", "SFMono-Regular", menlo, consolas, monospace !default;
 $body-font-family: 'Inter', system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
 roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji" !default;
-$serif-font-family: 'Source Serif 4', 'Georiga', 'Baskerville', serif;
+$serif-font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif;
 
 $berkeley-blue-old: #003262;
 $berkeley-blue: #002676; // rgb(0, 38, 118);
@@ -16,6 +16,7 @@ $berkeley-blue: #002676; // rgb(0, 38, 118);
 // Colors
 $link-color: $berkeley-blue;
 $hover-focus-link-color: lighten($link-color, 20%);
+$darker-text-color: #000;
 
 // Layout
 $gutter-spacing: $sp-6;
