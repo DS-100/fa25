@@ -10,8 +10,8 @@ Tue Oct 28
 Thu Oct 30
 : {% lec 19 %}
 : **Lecture Participation 19**{: .label .label-survey } Slido
-
-Fri Oct 31
 : **Lab 9**{: .label .label-lab }  Probability (due Wed 11/5)
 : **Homework 6**{: .label .label-hw } Probability (due Fri 11/7)
+
+Fri Oct 31
 : **Grade Option Change**{: .label .label-deadline } 11:59 PM

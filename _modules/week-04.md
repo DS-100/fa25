@@ -15,7 +15,5 @@ Thu Sep 18
 : {% lec 7 %}
     <!-- : [Note 7](https://ds100.org/course-notes/visualization_1/visualization_1.html) -->
 : **Lecture Participation 7**{: .label .label-survey } Slido
-
-Fri Sep 19
 : **Lab 3**{: .label .label-lab } Regex, EDA (due Wed 9/24)
 : **Homework 3**{: .label .label-hw } Text Analysis of New York Times Articles (due Thu 9/25)

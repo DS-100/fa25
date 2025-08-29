@@ -13,8 +13,8 @@ Thu Sep 4
 : {% lec 3 %}
     <!-- : [Note 3](https://ds100.org/course-notes/pandas_2/pandas_2.html) -->
 : **Lecture Participation 3**{: .label .label-survey } Slido
-
-Fri Sep 5
 : **Lab 2A**{: .label .label-lab } Pandas (due Wed 9/10)
 : **Homework 2A**{: .label .label-hw } Food Safety (due Thu 9/11)
+
+Fri Sep 5
 : **Drop Deadline (without fee)**{: .label .label-deadline } 11:59 PM
