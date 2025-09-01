@@ -12,7 +12,7 @@ currWeekNumber: 1
 {: .mb-2 .fs-6 .text-grey-dk-000 style="margin-top: 0;"  }
 [Ed](https://edstem.org/us/courses/83980){:target="_blank" .btn .btn-ed .mr-1 }
 [Datahub](http://data100.datahub.berkeley.edu/){:target="_blank" .btn .btn-datahub .mr-1 }
-[Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments){:target="_blank" .btn .btn-gradescope .mr-1 }
+[Pensieve](https://www.pensieve.co/){:target="_blank" .btn .btn-gradescope .mr-1 }
 [Lectures Playlist](https://youtube.com/playlist?list=PLQCcNQgUcDfpYJrF6mUXwC8zH1Sby_Sq_&feature=shared){:target="_blank" .btn .btn-youtube .mr-1}
 [Additional Accommodations](https://docs.google.com/forms/d/e/1FAIpQLSeLQXhbxlbenjEkhbonBrd6XFiKoPXgq2B7VBvKwYbW9a49dA/viewform?usp=header){:target="_blank" .btn .btn-blue .mr-1 }
 [Office Hours Queue](https://oh.ds100.org/){:target="_blank" .btn .btn-oh .mr-1}
