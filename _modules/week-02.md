@@ -4,7 +4,7 @@ title: Week 2
 
 Tue Sep 2
 : {% lec 2 %}
-    <!-- : [Note 2](https://ds100.org/course-notes/pandas_1/pandas_1.html) -->
+    : [Note 2](https://ds100.org/course-notes/pandas_1/pandas_1.html)
 : **Lecture Participation 2**{: .label .label-survey } Slido
 : **Discussion 1**{: .label .label-disc } Prerequisites
 
