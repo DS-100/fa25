@@ -28,9 +28,6 @@ currWeekNumber: 2
 </div>
 
 {: .highlight }
-> **⚠️ Warning: This website for Fall 2025 is under construction 🚧. There may be misleading information from past offerings of the course.**
-> **We will remove this warning when the information on this website is accurate.**
->
 > Welcome to [Week {{page.currWeekNumber}}](#week-{{page.currWeekNumber}}) of Data 100!
 > 
 > Lectures will be webcast on [Zoom](https://berkeley.zoom.us/j/98761698690){:target="_blank"}.
