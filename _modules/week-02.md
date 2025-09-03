@@ -5,7 +5,7 @@ title: Week 2
 Tue Sep 2
 : {% lec 2 %}
     : [Note 2](https://ds100.org/course-notes/pandas_1/pandas_1.html)
-: **Lecture Participation 2**{: .label .label-survey } Slido
+: **Lecture Participation 2**{: .label .label-survey } [Slido](https://app.sli.do/event/tBS4yWdB9ZUJhfhZGCwt5H){:target="_blank"}
 : **Discussion 1**{: .label .label-disc } [Prerequisites](https://drive.google.com/file/d/1oZDfWM6Y-txjnOcZBL7KlT5puN8JtsDI/view?usp=sharing){:target="_blank"}
     : [Mini-Lecture](https://www.youtube.com/watch?v=qXR-x19KT5w&list=PLQCcNQgUcDfqhtaFtgl7syP-V2dWYQ81S&index=1&pp=iAQBsAQB){:target="_blank"}
 
