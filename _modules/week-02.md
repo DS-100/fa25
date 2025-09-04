@@ -15,7 +15,7 @@ Thu Sep 4
     : [Note 3 (Summer 2025)](https://ds100.org/course-notes/pandas_2/pandas_2.html)
 : **Lecture Participation 3**{: .label .label-survey } [Slido](https://app.sli.do/event/jU4o9CER27xxzGyUicXaDe){:target="_blank"}
 : **Lab 2A**{: .label .label-lab } [Pandas](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab02A%2Flab02A.ipynb){:target="_blank"} (due Wed 9/10)
-: **Homework 2A**{: .label .label-hw } Food Safety (due Thu 9/11)
+: **Homework 2A**{: .label .label-hw } [Food Safety](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Fhw%2Fhw02A%2Fhw02A.ipynb){:target="_blank"} (due Thu 9/11)
 
 Fri Sep 5
 : **Drop Deadline (without fee)**{: .label .label-deadline } 11:59 PM
