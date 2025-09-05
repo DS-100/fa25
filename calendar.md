@@ -7,11 +7,11 @@ description: Calendars with times for all course events.
 
 # Calendar
 
-* [Office Hours Calendar](#ohc)
 * [Lecture, Discussion, and Special Events Calendar](#ldlc)
+* [Office Hours Calendar](#ohc)
 
 {: .note }
-> If you are having trouble viewing the calendars below and are using Safari, we suggest switching to an alternate browser (like Chrome). Alternatively, you can go to Safari settings and switch "Prevent cross-site tracking" off, or you can see the *Office Hours Calendar* [here](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&mode=WEEK&src=Y190OGE0MzY1cGhmY20wMGUyOW1oMXVha3Fuc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19wZjBhcmZlYnBndGtiNTJlb25jbzNxMmVwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19hZWNnMGE0djVlYmdjbDh0amo3cTcyNm9wNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19pZmlxOTA3MGI5OGprMDJoYnI4cDM3djNlc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%237CB342&color=%23795548&color=%233F51B5&color=%23D50000){:target="_blank"} and the *Lecture, Discussion, and Special Events Calendar* [here](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America/Los_Angeles&showTitle=0&mode=WEEK&src=c_fo7b35sk65gnagmvjhs0kccts8@group.calendar.google.com&src=c_u4atmeatlp76veu27vo0arnm6c@group.calendar.google.com&src=c_0126f8dc8dc6b4a4ad7cd0f2f81a0b6f457ca5cc7c7e7e1de57b9d7bdadc1b4c@group.calendar.google.com&src=c_0876a99b5cccab9c188e791fd28672d821a678e0d44ba1265423d3c834a70de3@group.calendar.google.com&src=c_c4344b048f632a9b1bcd76b3a1074306e8816a63dd2cfb77ec32bfefa796a50d@group.calendar.google.com&color=%23795548&color=%239C27B0&color=%233F51B5&color=%23388E3C&color=%23E67C73&csspa=1){:target="_blank"}.
+> If you are having trouble viewing the calendars below and are using Safari, we suggest switching to an alternate browser (like Chrome). Alternatively, you can go to Safari settings and switch "Prevent cross-site tracking" off, or you can see the *Lecture, Discussion, and Special Events Calendar* [here](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America/Los_Angeles&showTitle=0&mode=WEEK&src=c_fo7b35sk65gnagmvjhs0kccts8@group.calendar.google.com&src=c_u4atmeatlp76veu27vo0arnm6c@group.calendar.google.com&src=c_0126f8dc8dc6b4a4ad7cd0f2f81a0b6f457ca5cc7c7e7e1de57b9d7bdadc1b4c@group.calendar.google.com&src=c_0876a99b5cccab9c188e791fd28672d821a678e0d44ba1265423d3c834a70de3@group.calendar.google.com&src=c_c4344b048f632a9b1bcd76b3a1074306e8816a63dd2cfb77ec32bfefa796a50d@group.calendar.google.com&color=%23795548&color=%239C27B0&color=%233F51B5&color=%23388E3C&color=%23E67C73&csspa=1){:target="_blank"} and the *Office Hours Calendar* [here](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&mode=WEEK&src=Y190OGE0MzY1cGhmY20wMGUyOW1oMXVha3Fuc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19wZjBhcmZlYnBndGtiNTJlb25jbzNxMmVwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19hZWNnMGE0djVlYmdjbDh0amo3cTcyNm9wNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19pZmlxOTA3MGI5OGprMDJoYnI4cDM3djNlc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%237CB342&color=%23795548&color=%233F51B5&color=%23D50000){:target="_blank"}.
 
 <a name='ldlc'></a>
 
@@ -22,7 +22,7 @@ This calendar contains times for
 - Lectures (in <span style="color:brown">**brown**</span>)
 - In-Person Discussion Sections (in <span style="color:#8E24AA">**purple**</span>)
 - Remote Discussion Sections (in <span style="color:blue">**blue**</span>)
-- Scholars Discussion Sections (in <span style="color:#B17100">**orange**</span>)
+- Scholars Discussion Sections (in <span style="color:#DD4D40">**pink**</span>)
 - Catch-Up & Exam Review Sessions (in <span style="color:green">**green**</span>)
 
 <!-- **Note: All events on this calendar are virtual.** -->
