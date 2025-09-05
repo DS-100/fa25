@@ -22,7 +22,7 @@ This calendar contains times for
 - Lectures (in <span style="color:brown">**brown**</span>)
 - In-Person Discussion Sections (in <span style="color:#8E24AA">**purple**</span>)
 - Remote Discussion Sections (in <span style="color:blue">**blue**</span>)
-- Scholars Discussion Sections (in <span style="color:#DD4D40">**pink**</span>)
+- Scholars Discussion Sections (in <span style="color:#DA392B">**pink**</span>)
 - Catch-Up & Exam Review Sessions (in <span style="color:green">**green**</span>)
 
 <!-- **Note: All events on this calendar are virtual.** -->
