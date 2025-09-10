@@ -4,8 +4,8 @@ title: Week 3
 
 Tue Sep 9
 : {% lec 4 %}
-    <!-- : [Note 4](https://ds100.org/course-notes/pandas_3/pandas_3.html)/ -->
-: **Lecture Participation 4**{: .label .label-survey } Slido
+    : [Note 4 (Summer 2025)](https://ds100.org/course-notes/pandas_3/pandas_3.html)
+: **Lecture Participation 4**{: .label .label-survey } [Slido](https://app.sli.do/event/1ijyqkaFn6LUoyLBq9KDMr){:target="_blank"}
 : **Discussion 2**{: .label .label-disc } [Pandas I](https://drive.google.com/file/d/1HQgXKPbrtvRUkHw8cj0Q3k4qpAOP-ybt/view?usp=sharing){:target="_blank"}
     : [Mini-Lecture](https://www.youtube.com/watch?v=-E3j9AWkilI&list=PLQCcNQgUcDfqhtaFtgl7syP-V2dWYQ81S&index=2){:target="_blank"}, [Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Fdisc%2Fdisc02%2Fdisc02-worksheet-blank.ipynb){:target="_blank"}, [Groupwork Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Fdisc%2Fdisc02%2Fdisc02_groupwork_blank.ipynb){:target="_blank"}
 
