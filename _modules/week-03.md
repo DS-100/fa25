@@ -11,7 +11,7 @@ Tue Sep 9
 
 Thu Sep 11
 : {% lec 5 %}
-
+    : [Note 5 (Summer 2025)](https://ds100.org/course-notes/eda/eda.html)
 : **Lecture Participation 5**{: .label .label-survey } Slido
 : **Lab 2B**{: .label .label-lab } Data Cleaning and EDA (due Wed 9/17)
 : **Homework 2B**{: .label .label-hw } Food Safety II (due Thu 9/18)
