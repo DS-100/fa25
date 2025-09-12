@@ -14,7 +14,7 @@ Thu Sep 11
     : [Note 5 (Summer 2025)](https://ds100.org/course-notes/eda/eda.html)
 : **Lecture Participation 5**{: .label .label-survey } Slido
 : **Lab 2B**{: .label .label-lab } [Data Cleaning and EDA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab02B%2Flab02B.ipynb){:target="_blank"} (due Wed 9/17)
-: **Homework 2B**{: .label .label-hw } Food Safety II (due Thu 9/18)
+: **Homework 2B**{: .label .label-hw } [Food Safety II](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Fhw%2Fhw02B%2Fhw02B.ipynb){:target="_blank"} (due Thu 9/18)
 
 Fri Sep 12
 : **Add Deadline (without fee)**{: .label .label-deadline } 11:59 PM
