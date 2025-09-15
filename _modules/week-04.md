@@ -7,6 +7,8 @@ Tue Sep 16
     <!-- : [Note 6](https://ds100.org/course-notes/regex/regex.html) -->
 : **Lecture Participation 6**{: .label .label-survey } Slido
 : **Discussion 3**{: .label .label-disc } Pandas II, EDA
+: **Exam Prep 1**{: .label .label-examprep } [Worksheet](https://drive.google.com/file/d/1XuCfHXaG59TMDlmhb5Jpz2jv_y9nxrbB/view?usp=sharing){:target="_blank"}
+
 
 Wed Sep 17
 : **Drop Deadline (with fee)**{: .label .label-deadline } 11:59 PM
