@@ -7,7 +7,7 @@ Mon Sep 15
 Tue Sep 16
 : {% lec 6 %}
     : [Note 6 (Summer 2025)](https://ds100.org/course-notes/regex/regex.html)
-: **Lecture Participation 6**{: .label .label-survey } Slido
+: **Lecture Participation 6**{: .label .label-survey }[Slido](https://app.sli.do/event/jK7KM6YdAsz4kfvdjk96X2){:target="_blank"}
 : **Discussion 3**{: .label .label-disc } [Pandas II, EDA](https://drive.google.com/file/d/1aEe-_8q6QCRAtKx0SYBvsdG1t_yPmdyT/view?usp=sharing){:target="_blank"}
     : [Mini-Lecture](https://www.youtube.com/watch?v=9jFqjbPLThc&list=PLQCcNQgUcDfqhtaFtgl7syP-V2dWYQ81S&index=3){:target="_blank"}, [Monopoly Demo Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Fdisc%2Fdisc03%2Fdisc03-monopoly.ipynb){:target="_blank"}
 
