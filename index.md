@@ -15,6 +15,7 @@ currWeekNumber: 4
 [Pensieve](https://www.pensieve.co/){:target="_blank" .btn .btn-gradescope .mr-1 }
 [Lectures Playlist](https://youtube.com/playlist?list=PLQCcNQgUcDfpYJrF6mUXwC8zH1Sby_Sq_&feature=shared){:target="_blank" .btn .btn-youtube .mr-1}
 [Additional Accommodations](https://docs.google.com/forms/d/e/1FAIpQLSeLQXhbxlbenjEkhbonBrd6XFiKoPXgq2B7VBvKwYbW9a49dA/viewform?usp=header){:target="_blank" .btn .btn-blue .mr-1 }
+[Autograder Regrade Requests](https://forms.gle/EnXkRYNUHWRSWiEQ8){:target="_blank" .btn .btn-navy .mr-1 }
 [Office Hours Queue](https://oh.ds100.org/){:target="_blank" .btn .btn-oh .mr-1}
 
 <div>

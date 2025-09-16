@@ -66,3 +66,7 @@ div.highlighter-rouge div.highlight {
   @include btn-color($white, #ff1493);
 }
 
+.btn-navy {
+  @include btn-color($white, #000080);
+}
+
