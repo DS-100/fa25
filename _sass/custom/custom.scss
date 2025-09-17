@@ -54,7 +54,7 @@ div.highlighter-rouge div.highlight {
   @include btn-color($white, #9400D3);
 }
 
-.btn-gradescope {
+.btn-pensieve {
   @include btn-color($white, #228B22);
 }
 
@@ -65,8 +65,3 @@ div.highlighter-rouge div.highlight {
 .btn-oh {
   @include btn-color($white, #ff1493);
 }
-
-.btn-navy {
-  @include btn-color($white, #000080);
-}
-

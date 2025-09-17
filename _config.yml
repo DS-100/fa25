@@ -5,6 +5,12 @@ baseurl: '/fa25'
 url: 'https://ds100.org'
 logo: 'resources/assets/favicon/panda-logo.png'
 
+aux_links:
+  Additional Accommodations Form: 
+    - 'https://docs.google.com/forms/d/e/1FAIpQLSeLQXhbxlbenjEkhbonBrd6XFiKoPXgq2B7VBvKwYbW9a49dA/viewform?usp=header'
+  Autograded Assignment Regrade Requests Form: 
+    - 'https://forms.gle/EnXkRYNUHWRSWiEQ8'
+
 # External navigation links
 nav_external_links:
   - title: Course Notes
