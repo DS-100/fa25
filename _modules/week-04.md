@@ -19,5 +19,5 @@ Thu Sep 18
 : {% lec 7 %}
     <!-- : [Note 7](https://ds100.org/course-notes/visualization_1/visualization_1.html) -->
 : **Lecture Participation 7**{: .label .label-survey } Slido
-: **Lab 3**{: .label .label-lab } Regex, EDA (due Wed 9/24)
+: **Lab 3**{: .label .label-lab } [Regex, EDA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab03%2Flab03.ipynb){:target="_blank"} (due Wed 9/24)
 : **Homework 3**{: .label .label-hw } Text Analysis of New York Times Articles (due Thu 9/25)
