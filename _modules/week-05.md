@@ -1,6 +1,8 @@
 ---
 title: Week 5
 ---
+Mon Sep 22
+: **Exam Prep 2**{: .label .label-examprep } [EDA and Regex](https://drive.google.com/file/d/1Ujn_o1PLsmMFgQHvEZWmG83gvL_yPSW_/view?usp=sharing){:target="_blank"}
 
 Tue Sep 23
 : {% lec 8 %}
