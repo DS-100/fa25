@@ -3,6 +3,7 @@ title: Week 4
 ---
 Mon Sep 15
 : **Exam Prep 1**{: .label .label-examprep } [Pandas](https://drive.google.com/file/d/1XuCfHXaG59TMDlmhb5Jpz2jv_y9nxrbB/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/1Lc5DpF79rc58yPhMQgCLPWbN35pnPI8Q/view?usp=sharing){:target="_blank"}
 
 Tue Sep 16
 : {% lec 6 %}
