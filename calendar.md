@@ -42,7 +42,7 @@ This calendar contains times for
 `Graduate project office hours` are in <span style="color:purple">**purple**</span>; we offer both in-person and virtual office hours (check the event description).
 
 {: .note }
-> Almost all office hours will be held in-person in Warren Hall 101B. A small, limited portion of office hours are listed as online, primarily to accommodate online/remote students. From our experience in previous semesters, **the office hour experience in-person is much better (and much, much faster) than online**.
+> Almost all office hours will be held in-person in Warren Hall 101B. However, **be sure to verify the location of office hours, as some may take place in rooms other than Warren Hall 101B**. A small, limited portion of office hours are listed as online, primarily to accommodate online/remote students. From our experience in previous semesters, **the office hour experience in-person is much better (and much, much faster) than online**.
 
 To access `in-person office hours`, go to the room in the location of the office hour slot you're planning on attending.
 
