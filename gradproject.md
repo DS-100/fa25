@@ -27,8 +27,8 @@ The purpose of the project is to give students experience in both open-ended dat
 
 | Milestones  | Deadline (11:59 PM Pacific) | Event | Deliverables | Submission Link | Grading Weight |
 | ----------- | --------------------------- | ----- | ------------ | --------------- | -------------- |
-| Milestone 1 | October 8 | Group Formation + Research Proposal | Project Proposal Form | [Pensieve] | 5% |
-| Milestone 2 | October 22 | EDA | EDA Write-Up + Notebook | [EDA Pensieve] | 10% |
+| Milestone 1 | October 8 | Group Formation + Research Proposal | Project Proposal Form | [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments){:target="_blank"} | 5% |
+| Milestone 2 | October 22 | EDA | EDA Write-Up + Notebook | [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments/online/a38d096e-b30d-4ec2-ac72-6b619ece1a24/submit){:target="_blank"} | 10% |
 | Milestone 3 | November 5 | Mandatory Check-In | Progress Report + Meeting Booking | [Pensieve] | 10% |
 | Milestone 4 | November 19 | Project Report First Draft | Final Report Draft Write-Up | [Pensieve] | 20% |
 | Milestone 5 | November 25 | External Peer Review | External Peer Review | [Pensieve] | 7% |
@@ -45,7 +45,7 @@ In addition to these milestones, you will have weekly internal peer reviews to f
 
 ## Accessing Datasets
 
-All of the provided datasets can be found in the Datahub directory `_shared/data100-readonly/fa24_grad_project_data`. You can access the data directly from Datahub. If you wish to work on the project locally, you can also download the files containing the datasets for each topic by right-clicking on the file in JupyterLab and select "Copy Download Link". If you choose to train more complex models, DataHub might not have enough hardware resources or memory, in which case you can use [Google Colab](https://colab.google/){:target="_blank"} or your local machine. If you would like to use Google Colab, feel free to check out this [link](https://stackoverflow.com/questions/48376580/how-to-read-data-in-google-colab-from-my-google-drive){:target="_blank"} to get started.
+All of the provided datasets can be found in the Datahub directory `_shared/bcourses-1547854-readonly`. You can access the data directly from Datahub. If you wish to work on the project locally, you can also download the files containing the datasets for each topic by right-clicking on the file in JupyterLab and select "Copy Download Link". If you choose to train more complex models, DataHub might not have enough hardware resources or memory, in which case you can use [Google Colab](https://colab.google/){:target="_blank"} or your local machine. If you would like to use Google Colab, feel free to check out this [link](https://stackoverflow.com/questions/48376580/how-to-read-data-in-google-colab-from-my-google-drive){:target="_blank"} to get started.
 
 ## Computer Vision
 

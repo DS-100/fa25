@@ -91,11 +91,11 @@ To assist you in your efforts the agency has compiled the following list of reso
 
 ## Milestone Descriptions
 
-In addition to each Milestone description below, you will have to fill out an internal peer review form every week starting October 22. The internal peer review is for checking if each member of the group is contributing to the project and how the tasks are distributed among members. This is graded on completion and submitted via Gradescope each week.
+In addition to each Milestone description below, you will have to fill out an internal peer review form every week starting October 22. The internal peer review is for checking if each member of the group is contributing to the project and how the tasks are distributed among members. This is graded on completion and submitted via Pensieve each week.
 
 ### Milestone 1: Group Formation + Research Proposal (5%) - Wednesday, October 8, 2025
 
-The first deliverable of your group project is just to form your group, choose a dataset, and submit your implementation plan to [this Gradescope](https://www.gradescope.com/courses/949942/assignments/5717518){:target="_blank"} by **Wednesday, October 8**. The implementation plan should consist of a series of steps for completing the project along with a timeline. You may form groups of 2 or 3 people with any Data 200/200A/200S student.
+The first deliverable of your group project is just to form your group, choose a dataset, and submit your implementation plan to [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments){:target="_blank"} by **Wednesday, October 8**. The implementation plan should consist of a series of steps for completing the project along with a timeline. You may form groups of 2 or 3 people with any Data 200/200A/200S student.
 
 The rubric for this milestone is as follows:
 - Short paragraph description of implementation plan and timeline (2%).
@@ -105,7 +105,7 @@ The rubric for this milestone is as follows:
 
 ### Milestone 2: EDA (10%) - Wednesday, October 22, 2025
 
-The milestone is intended to keep you on track to meet your project goals. You will need to submit an exploratory data analysis report to [this Gradescope assignment](https://www.gradescope.com/courses/949942/assignments/5717504){:target="_blank"} as a PDF file by **11:59 pm on October 22**. This will include submitting both a report of your results so far as well as all code necessary to replicate your results. Please answer all the questions below. Your report should answer the following questions (note these questions should be answered in the form of a report and not as bullet points):
+The milestone is intended to keep you on track to meet your project goals. You will need to submit an exploratory data analysis report to [this Pensieve assignment](https://www.pensieve.co/student/classes/data100_fa25/my-assignments/online/a38d096e-b30d-4ec2-ac72-6b619ece1a24/submit){:target="_blank"} as a PDF file by **11:59 pm on October 22**. This will include submitting both a report of your results so far as well as all code necessary to replicate your results. Please answer all the questions below. Your report should answer the following questions (note these questions should be answered in the form of a report and not as bullet points):
 
 - **Data Sampling and Collection**
   - How was the data read and sampled for your EDA process?
@@ -140,7 +140,7 @@ The rubric for this milestone is as follows:
 
 ### Milestone 3: Progress-report Draft (10%) - Wednesday, November 5, 2025
 
-The purpose of this milestone is to ensure you are making progress and on schedule to submit the first draft of the project in approximately two weeks time. You will be required to make a document summarizing your progress so far, including your EDA and modeling results. You are required to submit a **1-2 page** report to [this Gradescope assignment](https://www.gradescope.com/courses/949942/assignments/5717488){:target="_blank"} by **11:59 pm on November 5**. The staff member will skim the report before the meeting and give you guidance on the project as a whole.
+The purpose of this milestone is to ensure you are making progress and on schedule to submit the first draft of the project in approximately two weeks time. You will be required to make a document summarizing your progress so far, including your EDA and modeling results. You are required to submit a **1-2 page** report to [this Pensieve assignment] by **11:59 pm on November 5**. The staff member will skim the report before the meeting and give you guidance on the project as a whole.
 
 For the check-in we would like for you to prepare brief answers to the following questions about the modeling process:
 - What model do you plan on using and why?
@@ -169,7 +169,7 @@ Please see the information below on what you should aim to submit. You do not ne
 
 Please refer to the section on the [Final Project Report](#final-project-report) for more information on how your first draft will roughly be graded. Your first draft will be graded more leniently than your final submission, but we’re still looking for largely the same elements.
 
-Submit to the [first draft project report assignment](https://www.gradescope.com/courses/949942/assignments/5718707) on Gradescope by **11:59 pm on November 19**.
+Submit to the [first draft project report assignment] by **11:59 pm on November 19**.
 
 ### Milestone 5: External Peer Review (7%) - Tuesday, November 25, 2025
 
@@ -188,15 +188,15 @@ Each group will peer review a project from another group; each group will be gra
 - Inference (do the results from the model sufficiently support the conclusion within the report?)
 - Discussion (does the report effectively discuss the limitations of the methods used and the implications of the results?)
 
-The external peer review is also a great chance to learn from other people's work and reflect on your own work. Submit one combined review to the [external peer review assignment](https://www.gradescope.com/courses/949942/assignments/5717521){:target="_blank"} on Gradescope by **11:59 pm on November 25**. Remember to add your group members on your submission.
+The external peer review is also a great chance to learn from other people's work and reflect on your own work. Submit one combined review to the [external peer review assignment] on Pensieve by **11:59 pm on November 25**. Remember to add your group members on your submission.
 
 <a name = 'final-project-report'></a>
 
 ## Final Project Report (42%) - Wednesday, December 3, 2025
 
-**The project submission should include the following four components, submitted across three Gradescope assignments.** For all three assignments, submit one per group. Make sure to add your group members on the Gradescope submission.
+**The project submission should include the following four components, submitted across three Pensieve assignments.** For all three assignments, submit one per group. Make sure to add your group members on the Pensieve submission.
 
-**Please submit component 1 as a zip file to the [final project code submission assignment](https://www.gradescope.com/courses/949942/assignments/5717525){:target="_blank"} on Gradescope.** Please make sure the folder in the zip file has the following structure:
+**Please submit component 1 as a zip file to the [final project code submission assignment] on Pensieve.** Please make sure the folder in the zip file has the following structure:
 
 ```
 [your studentIDs joined by _]/
@@ -207,9 +207,9 @@ The external peer review is also a great chance to learn from other people's wor
 
 Please use student IDs joined by `_` as the name for the top-level directory. The analysis notebooks must be runnable within this directory structure. If the narrative PDF includes any figures that are created in the analysis notebooks, the figures should be saved to `figures/` by the analysis notebooks.
 
-**Please also submit components 2-3 as a PDF to the [final project report submission assignment](https://www.gradescope.com/courses/949942/assignments/5718693){:target="_blank"} on Gradescope.** Make sure that the link to the video is included somewhere in your PDF.
+**Please also submit components 2-3 as a PDF to the [final project report submission assignment] on Pensieve.** Make sure that the link to the video is included somewhere in your PDF.
 
-**For component 4, you will submit your test set predictions to the [CV predictions assignment](https://www.gradescope.com/courses/949942/assignments/5717156){:target="_blank"}.** See below for more details.
+**For component 4, you will submit your test set predictions to the [CV predictions assignment].** See below for more details.
 
 ### [Component 1] Analysis Notebooks (10%)
 
@@ -267,11 +267,11 @@ The presentation video should provide an overview of your project, highlighting 
 
 ### [Component 4] Test Set Performance (10%)
 
-This component of the final report will be graded based on your models' performance on the test set for both tasks of your chosen project (please find the thresholds for each task in the rubrics). You will need to submit your predictions to Gradescope to get your test performance; you will be allowed to upload up to 4 times a day. Please find the test data for each task below.
+This component of the final report will be graded based on your models' performance on the test set for both tasks of your chosen project (please find the thresholds for each task in the rubrics). You will need to submit your predictions to Pensieve to get your test performance; you will be allowed to upload up to 4 times a day. Please find the test data for each task below.
 
-`test_images_flooding-fire.npz` is the test for Task A and `test_images_hurricane-matthew.npz` is the test set for Task B; both files are located in `shared/course/data100-shared-readwrite/fa24_grad_project_data/satellite-image-data` directory on Data 100 Datahub.
+`test_images_flooding-fire.npz` is the test for Task A and `test_images_hurricane-matthew.npz` is the test set for Task B; both files are located in the `_shared/bcourses-1547854-readonly` directory on Data 100 Datahub.
 
-Please submit two CSV files named `test_images_flooding-fire_predictions.csv`, and `test_images_hurricane-matthew_predictions.csv` to [the predictions assignment](https://www.gradescope.com/courses/949942/assignments/5717156){:target="_blank"}. Each CSV should only contain one column named `pred`.
+Please submit two CSV files named `test_images_flooding-fire_predictions.csv`, and `test_images_hurricane-matthew_predictions.csv` to [the predictions assignment]. Each CSV should only contain one column named `pred`.
 
 The maximum for each task is 5 points; please see the thresholds for the tasks below.
 
