@@ -21,9 +21,9 @@ nav_external_links:
     url: https://ds100.org/debugging-guide/
     hide_icon: true
     aria_label: "Data 100 Debugging Guide"
-  # - title: Course FAQ
-  #   url: https://ds100.org/faqs/fa25/
-  #   hide_icon: true
+  - title: Course FAQs
+    url: https://ds100.org/faqs/fa25/
+    hide_icon: true
 
 heading_anchors: false
 
