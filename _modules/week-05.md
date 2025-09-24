@@ -9,7 +9,7 @@ Tue Sep 23
     : [Note 8 (Summer 2025)](https://ds100.org/course-notes/visualization_2/visualization_2.html)
 : **Lecture Participation 8**{: .label .label-survey } [Slido](https://app.sli.do/event/mbmHyeSN3zkve778b8GLXs){:target="_blank"}
 : **Discussion 4**{: .label .label-disc } [Regex, Visualization, and Transformation](https://drive.google.com/file/d/129mf1sTei07Vt2DzAiQUxG3QfnWx9RaH/view?usp=sharing){:target="_blank"}
-    : [Mini-Lecture](https://www.youtube.com/watch?v=r7lxybfJK5c&list=PLQCcNQgUcDfqhtaFtgl7syP-V2dWYQ81S&index=4){:target="_blank"}, [Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Fdisc%2Fdisc04%2Fdisc04_coding_exercises.ipynb){:target="_blank"}
+    : [Mini-Lecture](https://www.youtube.com/watch?v=r7lxybfJK5c&list=PLQCcNQgUcDfqhtaFtgl7syP-V2dWYQ81S&index=4){:target="_blank"}, [Bigfoot Demo Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Fdisc%2Fdisc04%2Fdisc04_coding_exercises.ipynb){:target="_blank"}
 
 
 Thu Sep 25
