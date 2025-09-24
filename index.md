@@ -26,9 +26,16 @@ currWeekNumber: 5
   </div>
 </div>
 
+{: .important }
+> **MIDTERM 1 TIME CHANGE!!!**
+>
+> Please read through this **[Ed post](https://edstem.org/us/courses/83980/discussion/7012043){:target="_blank"}** in its entirety!
+>
+> Fill out the **[Midterm 1 availability form](https://forms.gle/tmPi9vPC9Dko498L9){:target="_blank"}** before Wednesday, October 1 at midnight!
+
 {: .highlight }
 > Welcome to [Week {{page.currWeekNumber}}](#week-{{page.currWeekNumber}}) of Data 100!
-> 
+>
 > Lectures will be webcast on [Zoom](https://berkeley.zoom.us/j/98761698690){:target="_blank"}.
 
 

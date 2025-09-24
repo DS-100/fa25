@@ -130,11 +130,11 @@ There are three exams in this course:
 
 {: .important}
 
-> - **Computer-Based Midterm 1** ON **Wed, October 15** OR **Thu, October 16** OR **Fri, October 17** (You will sign up for a 1-hour slot)
+> - **Paper-Based Midterm 1** ON **Thu, October 16** (11-12:30pm OR 6:30-8pm OR 8-9:30pm)
 > - **Computer-Based Midterm 2** ON **Wed, November 19** OR **Thu, November 20** OR **Fri, November 21** (You will sign up for a 1-hour slot)
 > - **Paper-Based Final** ON **Wednesday, December 17** FROM **8:00am-11:00am** (3 hours)
 
-We will administers the midterms in a computer-based testing facility on campus. More information will be provided shortly after the semester begins, including instructions for students with DSP accommodations.
+We will administer the exams either in traditional, paper-based formats or in the computer-based testing facility on campus. More information will be provided throughout the semester, including instructions for students with DSP accommodations.
 
 
 ### Graduate Final Project
