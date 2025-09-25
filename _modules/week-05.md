@@ -15,7 +15,7 @@ Tue Sep 23
 Thu Sep 25
 : {% lec 9 %}
     : [Note 9 (Summer 2025)](https://ds100.org/course-notes/sampling/sampling.html)
-: **Lecture Participation 9**{: .label .label-survey } Slido
+: **Lecture Participation 9**{: .label .label-survey } [Slido](https://app.sli.do/event/9LYngVut8Ykw4fUg4HnjSj){:target="_blank"}
 : **Lab 4**{: .label .label-lab } Transformations (due Wed 10/1)
 : **Homework 4**{: .label .label-hw } Bike Sharing (due Thu 10/2)
 
