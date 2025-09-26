@@ -16,7 +16,7 @@ Thu Sep 25
 : {% lec 9 %}
     : [Note 9 (Summer 2025)](https://ds100.org/course-notes/sampling/sampling.html)
 : **Lecture Participation 9**{: .label .label-survey } [Slido](https://app.sli.do/event/9LYngVut8Ykw4fUg4HnjSj){:target="_blank"}
-: **Lab 4**{: .label .label-lab } Transformations (due Wed 10/1)
+: **Lab 4**{: .label .label-lab } [Transformations](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab04%2Flab04.ipynb){:target="_blank"} (due Wed 10/1)
 : **Homework 4**{: .label .label-hw } Bike Sharing (due Thu 10/2)
 
 Fri Sep 26 
