@@ -3,7 +3,7 @@ title: Week 13
 ---
 
 Tue Nov 18
-: {% lec 23 %}
+: {% lec 22 %}
     <!-- : [Note 22](https://ds100.org/course-notes/logistic_regression_1/logistic_reg_1.html) -->
 : **Lecture Participation 23**{: .label .label-survey} Slido
 : **Discussion 12**{: .label .label-disc } Logistic Regression
@@ -12,7 +12,7 @@ Wed Nov 19
 : **Midterm 2**{: .label .label-exam } See [Syllabus](/syllabus.md) for details
 
 Thu Nov 20
-: {% lec 24 %}
+: {% lec 23 %}
     <!-- : [Note 23](https://ds100.org/course-notes/logistic_regression_2/logistic_reg_2.html) -->
 : **Lecture Participation 24**{: .label .label-survey} Slido
 : **Lab 12**{: .label .label-lab } PCA (due Wed 12/3)
