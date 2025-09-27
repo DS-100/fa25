@@ -3,6 +3,7 @@ title: Week 5
 ---
 Mon Sep 22
 : **Exam Prep 2**{: .label .label-examprep } [EDA and Regex](https://drive.google.com/file/d/1Ujn_o1PLsmMFgQHvEZWmG83gvL_yPSW_/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/1qWstLJiTHlsCG6Rm8RDy0NG68xzO1UJt/view?usp=sharing){:target="_blank"}, [Walkthrough](https://www.youtube.com/watch?v=74To0uQJ3uE&list=PLQCcNQgUcDfp9alGSVc_anQKPSLA5H2S_&index=2){:target="_blank"}
 
 Tue Sep 23
 : {% lec 8 %}
