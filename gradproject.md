@@ -27,13 +27,13 @@ The purpose of the project is to give students experience in both open-ended dat
 
 | Milestones  | Deadline (11:59 PM Pacific) | Event | Deliverables | Submission Link | Grading Weight |
 | ----------- | --------------------------- | ----- | ------------ | --------------- | -------------- |
-| Milestone 1 | October 8 | Group Formation + Research Proposal | [Project Proposal](https://docs.google.com/document/d/1SislbMJ3YYQ8wlcAb0hT3FquSTgPRSU54hN95FzBfhk/edit?usp=sharing){:target="_blank"} | [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments){:target="_blank"} | 5% |
-| Milestone 2 | October 22 | EDA | EDA Write-Up + Notebook | [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments/online/a38d096e-b30d-4ec2-ac72-6b619ece1a24/submit){:target="_blank"} | 10% |
-| Milestone 3 | November 5 | Mandatory Check-In | Progress Report + Meeting Booking | [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments){:target="_blank"} | 10% |
-| Milestone 4 | November 19 | Project Report First Draft | Final Report Draft Write-Up | [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments){:target="_blank"} | 20% |
-| Milestone 5 | November 25 | External Peer Review | External Peer Review | [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments){:target="_blank"} | 7% |
-| Final Submission | December 3 | Final Project Report | Final Project Report + Presentation Video | [Project Report PDF Pensieve] <br> [Project Report Code Pensieve] <br> [CV Predictions Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments){:target="_blank"} | 42% |
-| Weekly Internal Peer Reviews | Every Monday After Milestone 2 | Internal Peer Review | Internal Peer Review | [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments){:target="_blank"} (Please refer to corresponding link each week) | 6% |
+| Milestone 1 | October 8 | Group Formation + Research Proposal | [Project Proposal](https://docs.google.com/document/d/1SislbMJ3YYQ8wlcAb0hT3FquSTgPRSU54hN95FzBfhk/edit?usp=sharing){:target="_blank"} | [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments?submitAssignment=805acaed-db80-4c68-9a91-6b7753590be0){:target="_blank"} | 5% |
+| Milestone 2 | October 22 | EDA | EDA Write-Up + Notebook | [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments?submitAssignment=a38d096e-b30d-4ec2-ac72-6b619ece1a24){:target="_blank"} | 10% |
+| Milestone 3 | November 5 | Mandatory Check-In | Progress Report + Meeting Booking | [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments?submitAssignment=7a593e67-7154-4eee-9e52-682adc2d52f8){:target="_blank"} | 10% |
+| Milestone 4 | November 19 | Project Report First Draft | Final Report Draft Write-Up | [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments?submitAssignment=32ae9af1-a413-4373-91be-dd30b01b15b8){:target="_blank"} | 20% |
+| Milestone 5 | November 25 | External Peer Review | External Peer Review | [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments?submitAssignment=adf211c1-a7d7-4b14-9eb5-867310aff424){:target="_blank"} | 7% |
+| Final Submission | December 3 | Final Project Report | Final Project Report + Presentation Video | [Project Report PDF Pensieve] <br> [Project Report Code Pensieve] <br> [CV Predictions Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments?submitAssignment=fb083543-0e88-4a1c-aebd-182315edbf0f){:target="_blank"} | 42% |
+| Weekly Internal Peer Reviews | Every Monday After Milestone 2 | Internal Peer Review | Internal Peer Review | [Pensieve] (Please refer to corresponding link each week) | 6% |
 
 For each milestone listed above, detailed expectations can be found in the "Milestone" section under the Computer Vision project page. Please refer to these sections for specific requirements and guidelines.
 
