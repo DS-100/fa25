@@ -1,6 +1,8 @@
 ---
 title: Week 6
 ---
+Mon Sep 29
+: **Exam Prep 3**{: .label .label-examprep } [Sampling and Modeling](https://drive.google.com/file/d/1gr8bJ13itIGv3ziCUxF8SX34RXAt8jPT/view?usp=sharing){:target="_blank"}
 
 Tue Sep 30
 : {% lec 10 %}
