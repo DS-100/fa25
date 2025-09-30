@@ -95,7 +95,7 @@ In addition to each Milestone description below, you will have to fill out an in
 
 ### Milestone 1: Group Formation + Research Proposal (5%) - Wednesday, October 8, 2025
 
-The first deliverable of your group project is just to form your group, choose a dataset, and submit your implementation plan to [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments){:target="_blank"} by **Wednesday, October 8**. The implementation plan should consist of a series of steps for completing the project along with a timeline. You may form groups of 2 or 3 people with any Data 200/200A/200S student.
+The first deliverable of your group project is just to form your group and submit your implementation plan to [Pensieve](https://www.pensieve.co/student/classes/data100_fa25/my-assignments?submitAssignment=805acaed-db80-4c68-9a91-6b7753590be0){:target="_blank"} by **Wednesday, October 8**. The implementation plan should consist of a series of steps for completing the project along with a timeline. You may form groups of 2 or 3 people with any Data 200/200A/200S student.
 
 The rubric for this milestone is as follows:
 - Short paragraph description of implementation plan and timeline (2%).
