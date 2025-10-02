@@ -15,5 +15,5 @@ Thu Oct 2
 : {% lec 11 %}
     : [Note 11 (Summer 2025)](https://ds100.org/course-notes/constant_model_loss_transformations/loss_transformations.html)
 : **Lecture Participation 11**{: .label .label-survey } [Slido](https://app.sli.do/event/fU9MUMZigZTDwA3b54FQEf){:target="_blank"}
-: **Lab 5**{: .label .label-lab } Modeling, Summary Statistics, and Loss Functions (due Wed 10/8)
+: **Lab 5**{: .label .label-lab } [Modeling, Summary Statistics, and Loss Functions](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab05%2Flab05.ipynb){:target="_blank"} (due Wed 10/8)
 : **Homework 5**{: .label .label-hw } Modeling and OLS (due Mon 10/13)
