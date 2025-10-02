@@ -9,7 +9,7 @@ Tue Sep 30
     : [Note 10 (Summer 2025)](https://ds100.org/course-notes/modeling_slr/modeling_slr.html)
 : **Lecture Participation 10**{: .label .label-survey } [Slido](https://app.sli.do/event/6CTFA4axfzvQH45qCnBgVi){:target="_blank"}
 : **Discussion 5**{: .label .label-disc } [Transformations, Sampling, and SLR](https://drive.google.com/file/d/1MOba6-tUzgTBLKLCckaE-dhO4DmBAdU_/view?usp=sharing){:target="_blank"}
-    : [Mini-Lecture](https://www.youtube.com/watch?v=-KLgs84P4AE&list=PLQCcNQgUcDfqhtaFtgl7syP-V2dWYQ81S&index=5){:target="_blank"}
+    : [Mini-Lecture](https://www.youtube.com/watch?v=-KLgs84P4AE&list=PLQCcNQgUcDfqhtaFtgl7syP-V2dWYQ81S&index=5){:target="_blank"}, [Solutions](https://drive.google.com/file/d/1j2Y8anzswXVb5kFJLJYnO3IJoKRPPdy_/view?usp=sharing){:target="_blank"}
 
 Thu Oct 2
 : {% lec 11 %}
