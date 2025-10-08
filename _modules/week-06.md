@@ -2,7 +2,7 @@
 title: Week 6
 ---
 Mon Sep 29
-: **Exam Prep 3**{: .label .label-examprep } [Sampling and Modeling](https://drive.google.com/file/d/1gr8bJ13itIGv3ziCUxF8SX34RXAt8jPT/view?usp=sharing){:target="_blank"}
+: **Exam Prep 3**{: .label .label-examprep } [Visualization](https://drive.google.com/file/d/1gr8bJ13itIGv3ziCUxF8SX34RXAt8jPT/view?usp=sharing){:target="_blank"}
     : [Solutions](https://drive.google.com/file/d/18kl357J23nkdcOnDerXr_V2xttlESYXt/view?usp=sharing){:target="_blank"}, [Walkthrough](https://www.youtube.com/watch?v=0GiW-AY8Jts&list=PLQCcNQgUcDfp9alGSVc_anQKPSLA5H2S_&index=3){:target="_blank"}
 
 Tue Sep 30
