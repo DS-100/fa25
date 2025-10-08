@@ -1,6 +1,8 @@
 ---
 title: Week 7
 ---
+Mon Oct 6
+: **Exam Prep 4**{: .label .label-examprep } [SLR and Midterm Prep](https://drive.google.com/file/d/1FrjpCTQh61E1KJN-tJNVtGJjWlBWE1FL/view?usp=sharing){:target="_blank"}
 
 Tue Oct 7
 : {% lec 12 %}
