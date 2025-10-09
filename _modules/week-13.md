@@ -9,7 +9,7 @@ Tue Nov 18
 : **Discussion 12**{: .label .label-disc } Logistic Regression
 
 Wed Nov 19
-: **Midterm 2**{: .label .label-exam } See [Syllabus](/syllabus.md) for details
+: **Midterm 2**{: .label .label-exam } See [Syllabus](syllabus) for details
 
 Thu Nov 20
 : {% lec 23 %}
@@ -17,7 +17,7 @@ Thu Nov 20
 : **Lecture Participation 24**{: .label .label-survey} Slido
 : **Lab 12**{: .label .label-lab } PCA (due Wed 12/3)
 : **Project B1**{: .label .label-proj } Spam & Ham I (due Tue 12/2)
-: **Midterm 2**{: .label .label-exam } See [Syllabus](/syllabus.md) for details
+: **Midterm 2**{: .label .label-exam } See [Syllabus](syllabus) for details
 
 Fri Nov 21
-: **Midterm 2**{: .label .label-exam } See [Syllabus](/syllabus.md) for details
+: **Midterm 2**{: .label .label-exam } See [Syllabus](syllabus) for details
