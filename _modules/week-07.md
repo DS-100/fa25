@@ -13,5 +13,5 @@ Tue Oct 7
 
 Thu Oct 9
 : {% lec 13 %}
-    <!-- : [Note 13](https://ds100.org/course-notes/case_study_HCE/case_study_HCE.html) -->
+    : [Note 13 (Summer 2025)](https://ds100.org/course-notes/case_study_HCE/case_study_HCE.html)
 : **Lab 6**{: .label .label-lab } OLS (due Wed 10/15)
