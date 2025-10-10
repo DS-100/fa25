@@ -15,4 +15,4 @@ Thu Oct 9
 : {% lec 13 %}
     : [Note 13 (Summer 2025)](https://ds100.org/course-notes/case_study_HCE/case_study_HCE.html)
 : **Lecture Participation 13**{: .label .label-survey } [Slido](https://app.sli.do/event/nfjDK9V7Gz9VmPCpwN2k5G){:target="_blank"}
-: **Lab 6**{: .label .label-lab } OLS (due Fri 10/17)
+: **Lab 6**{: .label .label-lab } [OLS](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab06%2Flab06.ipynb){:target="_blank"} (due Fri 10/17)
