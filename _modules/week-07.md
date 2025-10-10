@@ -3,6 +3,7 @@ title: Week 7
 ---
 Mon Oct 6
 : **Exam Prep 4**{: .label .label-examprep } [Modeling and Midterm Prep](https://drive.google.com/file/d/1FrjpCTQh61E1KJN-tJNVtGJjWlBWE1FL/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/1yCxswKOJg6l5nNOMUoo3OR9hkgLBsKZG/view?usp=sharing){:target="_blank"}, [Walkthrough](https://www.youtube.com/watch?v=KVUvj5yAXt8&list=PLQCcNQgUcDfp9alGSVc_anQKPSLA5H2S_&index=4){:target="_blank"}
 
 Tue Oct 7
 : {% lec 12 %}
