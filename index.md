@@ -15,7 +15,6 @@ currWeekNumber: 8
 [Ed](https://edstem.org/us/courses/83980){:target="_blank" .btn .btn-ed .mr-1 }
 [Office Hours Queue](https://oh.ds100.org/){:target="_blank" .btn .btn-oh .mr-1}
 [Lectures Playlist](https://youtube.com/playlist?list=PLQCcNQgUcDfpYJrF6mUXwC8zH1Sby_Sq_&feature=shared){:target="_blank" .btn .btn-youtube .mr-1}
-[Jump to Current Week](#week-{{page.currWeekNumber}}){: .btn .btn-blue .mr-1}
 
 <div>
 {% assign instructors = site.staffers | where: 'role', 'Instructor' | sort: 'order' %}
@@ -41,8 +40,13 @@ currWeekNumber: 8
 
 <a name="schedule"></a>
 
-
-## Schedule
+<h2 class="d-flex align-items-center" id="schedule">
+  Schedule
+  <a href="#week-{{ page.currWeekNumber }}" class="btn btn-blue mr-1"
+     style="margin-left:0.75rem; font-size:1rem; padding:.375rem .75rem; line-height:1.2; height:auto; align-self:center;">
+    Jump to Current Week
+  </a>
+</h2>
 
 {% for module in site.modules %}
 {{ module }}
