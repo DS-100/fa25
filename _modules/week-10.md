@@ -5,7 +5,7 @@ title: Week 10
 Tue Oct 28
 : {% lec 17 %}
 : **Lecture Participation 18**{: .label .label-survey } Slido
-: **Discussion 9**{: .label .label-disc } Cross-Validation and Regularization
+: **Discussion 9**{: .label .label-disc } Cross-Validation, Regularization, and Random Variables
 
 Thu Oct 30
 : {% lec 18 %}

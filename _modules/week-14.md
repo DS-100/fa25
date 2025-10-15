@@ -6,7 +6,7 @@ Tue Nov 25
 : {% lec 24 %}
     <!-- : [Note 24](https://ds100.org/course-notes/pca_1/pca_1.html) -->
 : **Lecture Participation 25**{: .label .label-survey} Slido
-: **Discussion 13**{: .label .label-disc } PCA + Clustering I
+: **Discussion 13**{: .label .label-disc } Logistic Regression
 
 Thu Nov 27
 : **Holiday**{: .label .label-exam} Thanksgiving

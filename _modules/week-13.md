@@ -6,7 +6,7 @@ Tue Nov 18
 : {% lec 22 %}
     <!-- : [Note 22](https://ds100.org/course-notes/logistic_regression_1/logistic_reg_1.html) -->
 : **Lecture Participation 23**{: .label .label-survey} Slido
-: **Discussion 12**{: .label .label-disc } Logistic Regression
+: **Discussion 12**{: .label .label-disc } Midterm 2 Review
 
 Wed Nov 19
 : **Midterm 2**{: .label .label-exam } See [Syllabus](syllabus) for details

@@ -6,7 +6,7 @@ Tue Nov 4
 : {% lec 19 %}
     <!-- : [Note 19](https://ds100.org/course-notes/inference_causality/inference_causality.html) -->
 : **Lecture Participation 20**{: .label .label-survey} Slido
-: **Discussion 10**{: .label .label-disc } RVs, Bias, and Variance
+: **Discussion 10**{: .label .label-disc } Bias and Variance
 
 Thu Nov 6
 : {% lec 20 %}

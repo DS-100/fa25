@@ -6,7 +6,7 @@ Tue Oct 21
 : {% lec 15 %}
     <!-- : [Note 15](https://ds100.org/course-notes/feature_engineering/feature_engineering.html) -->
 : **Lecture Participation 16**{: .label .label-survey } Slido
-: **Discussion 8**{: .label .label-disc } Feature Engineering, Housing
+: **Discussion 8**{: .label .label-disc } Gradient Descent, Feature Engineering, and Housing
 
 Thu Oct 23
 : {% lec 16 %}
