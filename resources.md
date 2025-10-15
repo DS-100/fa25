@@ -16,7 +16,7 @@ Jump to:
 {:toc}
 
 ## Reference Sheet
-Here is the Summer 2025 [Midterm Reference Sheet](assets\exams\su25\su25_mt_reference_sheet.pdf) and [Final Reference Sheet](assets\exams\su25\su25_final_reference_sheet.pdf).
+Here is this semester's [Midterm Reference Sheet](https://static.us.edusercontent.com/files/wiJPEQvUNoFSGq5i69NVBfY8){:target="_blank"}, as well as Summer 2025's [Midterm Reference Sheet](assets\exams\su25\su25_mt_reference_sheet.pdf) and [Final Reference Sheet](assets\exams\su25\su25_final_reference_sheet.pdf).
 
 ## Supplementary Course Notes
 Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes/). 
