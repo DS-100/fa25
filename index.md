@@ -26,11 +26,6 @@ currWeekNumber: 8
   </div>
 </div>
 
-{: .important }
-> **MIDTERM 1 TIME CHANGE!!!**
->
-> Please read through this **[Ed post](https://edstem.org/us/courses/83980/discussion/7012043){:target="_blank"}** in its entirety!
-
 {: .highlight }
 > Welcome to [Week {{page.currWeekNumber}}](#week-{{page.currWeekNumber}}) of Data 100!
 >
