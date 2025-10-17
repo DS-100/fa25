@@ -11,7 +11,7 @@ Tue Oct 14
 
 Thu Oct 16
 : **No Lecture**{: .label .label-lecture}
-: **Lab 7**{: .label .label-lab }  Gradient Descent / Sklearn (due Wed 10/22)
+: **Lab 7**{: .label .label-lab } [Gradient Descent / Sklearn](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab07%2Flab07.ipynb){:target="_blank"} (due Wed 10/22)
 : **Project A1**{: .label .label-proj } Housing I (due Fri 10/24)
 : **Midterm 1**{: .label .label-exam } See [Syllabus](syllabus) for details
 
