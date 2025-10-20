@@ -1,6 +1,8 @@
 ---
 title: Week 8
 ---
+Mon Oct 13
+: **Exam Prep 5**{: .label .label-examprep } [OLS and Gradient Descent](https://drive.google.com/file/d/1sFamiW9ov0FefCS1KbvTJYu-NBpQvu9t/view?usp=sharing){:target="_blank"}
 
 Tue Oct 14
 : {% lec 14 %}
