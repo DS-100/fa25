@@ -12,5 +12,5 @@ Wed Nov 12
 Thu Nov 13
 : {% lec 21 %}
     <!-- : [Note 21](https://ds100.org/course-notes/sql_II/sql_II.html) -->
-: **Lecture Participation 22**{: .label .label-survey} Slido
+: **Lecture Participation 21**{: .label .label-survey} Slido
 : **Lab 11**{: .label .label-lab } Logistic Regression (due Mon 11/24)
