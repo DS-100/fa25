@@ -8,7 +8,7 @@ Mon Dec 1
 Tue Dec 2
 : {% lec 24 %}
     <!-- : [Note 24](https://ds100.org/course-notes/pca_2/pca_2.html) -->
-: **Lecture Participation 25**{: .label .label-survey} Slido
+: **Lecture Participation 24**{: .label .label-survey} Slido
 : **Discussion 14**{: .label .label-disc } PCA and Clustering
 
 Thu Dec 4
