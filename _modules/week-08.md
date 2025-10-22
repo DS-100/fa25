@@ -14,5 +14,5 @@ Tue Oct 14
 Thu Oct 16
 : **No Lecture**{: .label .label-lecture}
 : **Midterm 1**{: .label .label-exam } See [Syllabus](syllabus) for details
-: **Lab 7**{: .label .label-lab } [Gradient Descent / Sklearn](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab07%2Flab07.ipynb){:target="_blank"} (due Wed 10/22)
+: **Lab 7**{: .label .label-lab } [Gradient Descent / Sklearn](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab07%2Flab07.ipynb){:target="_blank"} (due Thu 10/23)
 : **Project A1**{: .label .label-proj } [Housing I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Fproj%2FprojA1%2FprojA1.ipynb){:target="_blank"} (due Fri 10/24)
