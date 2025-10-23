@@ -11,7 +11,7 @@ Tue Oct 21
 
 Thu Oct 23
 : {% lec 16 %}
-    <!-- : [Note 16](https://ds100.org/course-notes/cv_regularization/cv_reg.html) -->
+    : [Note 16 (Summer 2025)](https://ds100.org/course-notes/cv_regularization/cv_reg.html)
 : **Lecture Participation 16**{: .label .label-survey } Slido
 : **Lab 8**{: .label .label-lab } Model Selection (due Wed 10/29)
 : **Project A2**{: .label .label-proj } Housing II (due Fri 10/31)
