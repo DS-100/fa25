@@ -12,6 +12,6 @@ Tue Oct 21
 Thu Oct 23
 : {% lec 16 %}
     : [Note 16 (Summer 2025)](https://ds100.org/course-notes/cv_regularization/cv_reg.html)
-: **Lecture Participation 16**{: .label .label-survey } Slido
+: **Lecture Participation 16**{: .label .label-survey } [Slido](https://app.sli.do/event/tz1AYNm1iKCXcdyXFJsGcu){:target="_blank"}
 : **Lab 8**{: .label .label-lab } [Model Selection](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab08%2F){:target="_blank"} (due Wed 10/29)
 : **Project A2**{: .label .label-proj } Housing II (due Fri 10/31)
