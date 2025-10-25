@@ -1,6 +1,8 @@
 ---
 title: Week 9
 ---
+Mon Oct 20
+: **Exam Prep 6**{: .label .label-examprep } [Feature Engineering, Cross Validation, and Regularization](https://drive.google.com/file/d/1m7RRYCvCvKwHJl6LSvP5Kfr37-ugDhEQ/view?usp=sharing){:target="_blank"}
 
 Tue Oct 21
 : {% lec 15 %}
