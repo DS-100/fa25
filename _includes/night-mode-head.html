@@ -1,0 +1,70 @@
+<!-- Critical CSS to prevent white flash - MUST be in head -->
+<style>
+html[data-theme="dark"], html.dark-mode {
+    background-color: #1a202c !important;
+}
+html[data-theme="dark"] body, html.dark-mode body {
+    background-color: #1a202c !important;
+    color: #e2e8f0 !important;
+}
+html[data-theme="dark"] .side-bar, html.dark-mode .side-bar {
+    background-color: #2d3748 !important;
+}
+html[data-theme="dark"] .site-header, html.dark-mode .site-header {
+    background-color: #2d3748 !important;
+}
+html[data-theme="dark"] .site-title, html.dark-mode .site-title {
+    color: #ffffff !important;
+}
+html[data-theme="dark"] .nav-list-link, html.dark-mode .nav-list-link {
+    color: #ffffff !important;
+}
+html[data-theme="dark"] .aux-nav, html.dark-mode .aux-nav {
+    background-color: #2d3748 !important;
+}
+html[data-theme="dark"] .site-button, html.dark-mode .site-button {
+    background-color: #2d3748 !important;
+    color: #ffffff !important;
+    border: none !important;
+}
+html[data-theme="dark"] .main, html.dark-mode .main {
+    background-color: #1a202c !important;
+}
+html[data-theme="dark"] .main-content, html.dark-mode .main-content {
+    background-color: #1a202c !important;
+    color: #e2e8f0 !important;
+}
+</style>
+
+<!-- Immediate theme application script -->
+<script>
+(function() {
+    'use strict';
+    const STORAGE_KEY = 'data100-theme-preference';
+    const THEMES = { LIGHT: 'light', DARK: 'dark' };
+    const THEME_ATTRIBUTE = 'data-theme';
+    const DARK_MODE_CLASS = 'dark-mode';
+    
+    // Apply theme IMMEDIATELY before any content loads
+    const savedTheme = localStorage.getItem(STORAGE_KEY) || THEMES.LIGHT;
+    const html = document.documentElement;
+    
+    if (savedTheme === THEMES.DARK) {
+        html.classList.add(DARK_MODE_CLASS);
+        html.setAttribute(THEME_ATTRIBUTE, THEMES.DARK);
+        // Also set on body immediately
+        document.body.classList.add(DARK_MODE_CLASS);
+    } else {
+        html.setAttribute(THEME_ATTRIBUTE, THEMES.LIGHT);
+    }
+    
+    // Prevent any flash by setting styles immediately
+    if (savedTheme === THEMES.DARK) {
+        html.style.backgroundColor = '#1a202c';
+        if (document.body) {
+            document.body.style.backgroundColor = '#1a202c';
+            document.body.style.color = '#e2e8f0';
+        }
+    }
+})();
+</script>

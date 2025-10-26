@@ -1,0 +1,519 @@
+/* Night Mode Toggle Styles */
+.night-mode-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    background: #ffffff;
+    border: 2px solid #e1e5e9;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    font-size: 20px;
+    line-height: 1;
+}
+
+.night-mode-toggle:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.night-mode-toggle:focus {
+    outline: 2px solid #007acc;
+    outline-offset: 2px;
+}
+
+.night-mode-icon {
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+.night-mode-toggle:hover .night-mode-icon {
+    transform: rotate(15deg);
+}
+
+/* Dark Mode Styles */
+html[data-theme="dark"] .night-mode-toggle,
+html.dark-mode .night-mode-toggle {
+    background: #2d3748;
+    border-color: #4a5568;
+    color: #e2e8f0;
+}
+
+html[data-theme="dark"] .night-mode-toggle:hover,
+html.dark-mode .night-mode-toggle:hover {
+    background: #4a5568;
+}
+
+/* Critical CSS to prevent white flash - MUST be at the top */
+html[data-theme="dark"],
+html.dark-mode {
+    background-color: #1a202c !important;
+}
+
+html[data-theme="dark"] body,
+html.dark-mode body {
+    background-color: #1a202c !important;
+    color: #e2e8f0 !important;
+}
+
+html[data-theme="dark"] .side-bar,
+html.dark-mode .side-bar {
+    background-color: #2d3748 !important;
+    border-right: none !important;
+}
+
+html[data-theme="dark"] .site-nav,
+html.dark-mode .site-nav {
+    border: none !important;
+}
+
+html[data-theme="dark"] .nav-list,
+html.dark-mode .nav-list {
+    border: none !important;
+}
+
+html[data-theme="dark"] .nav-list-item,
+html.dark-mode .nav-list-item {
+    border: none !important;
+}
+
+html[data-theme="dark"] .site-header,
+html.dark-mode .site-header {
+    background-color: #2d3748 !important;
+    border-bottom: 1px solid #1a202c !important;
+}
+
+html[data-theme="dark"] .site-title,
+html.dark-mode .site-title {
+    color: #ffffff !important;
+}
+
+html[data-theme="dark"] .site-title:hover,
+html.dark-mode .site-title:hover {
+    color: #ffffff !important;
+    background-color: #2a3441 !important;
+    background-image: none !important;
+    text-decoration: none !important;
+    transform: none !important;
+}
+
+html[data-theme="dark"] .site-logo,
+html.dark-mode .site-logo {
+    background-color: transparent !important;
+    /* Don't remove background-image - that's the logo! */
+}
+
+html[data-theme="dark"] .site-logo:hover,
+html.dark-mode .site-logo:hover {
+    background-color: transparent !important;
+    /* Don't remove background-image - that's the logo! */
+}
+
+/* Override any theme hover effects */
+html[data-theme="dark"] .nav-list-link,
+html.dark-mode .nav-list-link {
+    color: #ffffff !important;
+    font-weight: 500;
+    background-color: transparent !important;
+    background-image: none !important;
+    text-decoration: none !important;
+}
+
+html[data-theme="dark"] .nav-list-link:hover,
+html.dark-mode .nav-list-link:hover {
+    color: #63b3ed !important;
+    background-color: #2a3441 !important;
+    background-image: none !important;
+    text-decoration: none !important;
+}
+
+html[data-theme="dark"] .nav-list-link.active,
+html.dark-mode .nav-list-link.active {
+    color: #63b3ed !important;
+    font-weight: 600;
+    background-color: transparent !important;
+    background-image: none !important;
+    text-decoration: none !important;
+}
+
+/* Fix aux navigation (accommodation and regrade buttons) */
+html[data-theme="dark"] .aux-nav,
+html.dark-mode .aux-nav {
+    background-color: #1a202c !important;
+}
+
+html[data-theme="dark"] .aux-nav-list,
+html.dark-mode .aux-nav-list {
+    background-color: #1a202c !important;
+}
+
+html[data-theme="dark"] .aux-nav-list-item,
+html.dark-mode .aux-nav-list-item {
+    background-color: transparent !important;
+}
+
+html[data-theme="dark"] .site-button,
+html.dark-mode .site-button {
+    background-color: #1a202c !important;
+    color: #ffffff !important;
+    border: none !important;
+    transition: all 0.3s ease;
+}
+
+html[data-theme="dark"] .site-button:hover,
+html.dark-mode .site-button:hover {
+    background-color: #2a3441 !important;
+    background-image: none !important;
+    color: #ffffff !important;
+    border: none !important;
+    transform: translateY(-1px);
+}
+
+/* Fix main content area */
+html[data-theme="dark"] .main,
+html.dark-mode .main {
+    background-color: #1a202c !important;
+}
+
+html[data-theme="dark"] .main-content,
+html.dark-mode .main-content {
+    background-color: #1a202c !important;
+    color: #e2e8f0 !important;
+}
+
+html[data-theme="dark"] .main-header,
+html.dark-mode .main-header {
+    background-color: #2d3748 !important;
+    border-bottom-color: #4a5568 !important;
+}
+
+/* Fix search */
+html[data-theme="dark"] .search-input,
+html.dark-mode .search-input {
+    background-color: #2d3748 !important;
+    color: #ffffff !important;
+    border-color: #4a5568 !important;
+}
+
+html[data-theme="dark"] .search-results,
+html.dark-mode .search-results {
+    background-color: #2d3748 !important;
+    border-color: #4a5568 !important;
+}
+
+/* Fix links */
+html[data-theme="dark"] a,
+html.dark-mode a {
+    color: #63b3ed !important;
+}
+
+html[data-theme="dark"] a:hover,
+html.dark-mode a:hover {
+    color: #90cdf4 !important;
+}
+
+/* Fix headings */
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6,
+html.dark-mode h1,
+html.dark-mode h2,
+html.dark-mode h3,
+html.dark-mode h4,
+html.dark-mode h5,
+html.dark-mode h6 {
+    color: #ffffff !important;
+}
+
+/* Fix code blocks */
+html[data-theme="dark"] .highlight,
+html[data-theme="dark"] pre,
+html[data-theme="dark"] code,
+html.dark-mode .highlight,
+html.dark-mode pre,
+html.dark-mode code {
+    background-color: #2d3748 !important;
+    color: #e2e8f0 !important;
+}
+
+/* Fix tables */
+html[data-theme="dark"] table,
+html.dark-mode table {
+    background-color: #2d3748 !important;
+    border-color: #4a5568 !important;
+}
+
+html[data-theme="dark"] th,
+html[data-theme="dark"] td,
+html.dark-mode th,
+html.dark-mode td {
+    background-color: #2d3748 !important;
+    color: #e2e8f0 !important;
+    border-color: #4a5568 !important;
+}
+
+/* Fix buttons */
+html[data-theme="dark"] .btn,
+html.dark-mode .btn {
+    background-color: #4a5568 !important;
+    color: #ffffff !important;
+    border-color: #4a5568 !important;
+}
+
+html[data-theme="dark"] .btn:hover,
+html.dark-mode .btn:hover {
+    background-color: #63b3ed !important;
+    border-color: #63b3ed !important;
+}
+
+/* Fix callouts */
+html[data-theme="dark"] .callout,
+html.dark-mode .callout {
+    background-color: #2d3748 !important;
+    border-color: #4a5568 !important;
+    color: #e2e8f0 !important;
+}
+
+/* Fix footer */
+html[data-theme="dark"] .site-footer,
+html.dark-mode .site-footer {
+    background-color: #2d3748 !important;
+    border-top-color: #4a5568 !important;
+    color: #a0aec0 !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .night-mode-toggle {
+        top: 15px;
+        right: 15px;
+        width: 45px;
+        height: 45px;
+        font-size: 18px;
+    }
+}
+
+/* Smooth transitions for theme switching - but not for theme changes */
+.night-mode-toggle {
+    transition: all 0.3s ease;
+}
+
+.night-mode-icon {
+    transition: transform 0.3s ease;
+}
+
+/* Smooth transitions for theme switching - subtle and clean */
+html[data-theme="dark"] *,
+html.dark-mode * {
+    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease !important;
+}
+
+/* Fix calendar visibility */
+html[data-theme="dark"] .calendar,
+html.dark-mode .calendar {
+    background-color: #2d3748 !important;
+    color: #e2e8f0 !important;
+    border: 1px solid #4a5568 !important;
+}
+
+html[data-theme="dark"] .calendar th,
+html.dark-mode .calendar th {
+    background-color: #4a5568 !important;
+    color: #ffffff !important;
+}
+
+html[data-theme="dark"] .calendar td,
+html.dark-mode .calendar td {
+    background-color: #2d3748 !important;
+    color: #e2e8f0 !important;
+    border: 1px solid #4a5568 !important;
+}
+
+html[data-theme="dark"] .calendar a,
+html.dark-mode .calendar a {
+    color: #63b3ed !important;
+}
+
+html[data-theme="dark"] .calendar a:hover,
+html.dark-mode .calendar a:hover {
+    color: #90cdf4 !important;
+    background-color: #4a5568 !important;
+}
+
+/* Fix calendar notice text */
+html[data-theme="dark"] .calendar-notice,
+html.dark-mode .calendar-notice {
+    color: #e2e8f0 !important;
+}
+
+html[data-theme="dark"] .calendar-notice a,
+html.dark-mode .calendar-notice a {
+    color: #63b3ed !important;
+}
+
+html[data-theme="dark"] .calendar-notice a:hover,
+html.dark-mode .calendar-notice a:hover {
+    color: #90cdf4 !important;
+}
+
+/* Fix any remaining black text in calendar area */
+html[data-theme="dark"] .calendar + p,
+html.dark-mode .calendar + p {
+    color: #e2e8f0 !important;
+}
+
+html[data-theme="dark"] .calendar + p a,
+html.dark-mode .calendar + p a {
+    color: #63b3ed !important;
+}
+
+html[data-theme="dark"] .calendar + p a:hover,
+html.dark-mode .calendar + p a:hover {
+    color: #90cdf4 !important;
+}
+
+/* Catch any paragraph text near calendars */
+html[data-theme="dark"] .calendar ~ p,
+html.dark-mode .calendar ~ p {
+    color: #e2e8f0 !important;
+}
+
+html[data-theme="dark"] .calendar ~ p a,
+html.dark-mode .calendar ~ p a {
+    color: #63b3ed !important;
+}
+
+html[data-theme="dark"] .calendar ~ p a:hover,
+html.dark-mode .calendar ~ p a:hover {
+    color: #90cdf4 !important;
+}
+
+/* Fix note section text */
+html[data-theme="dark"] .note,
+html.dark-mode .note {
+    color: #e2e8f0 !important;
+}
+
+html[data-theme="dark"] .note p,
+html.dark-mode .note p {
+    color: #e2e8f0 !important;
+}
+
+html[data-theme="dark"] .note a,
+html.dark-mode .note a {
+    color: #63b3ed !important;
+}
+
+html[data-theme="dark"] .note a:hover,
+html.dark-mode .note a:hover {
+    color: #90cdf4 !important;
+}
+
+/* Fix search box styling */
+html[data-theme="dark"] .search-box,
+html.dark-mode .search-box {
+    border-radius: 8px !important;
+}
+
+html[data-theme="dark"] .search-input,
+html.dark-mode .search-input {
+    border-radius: 8px !important;
+}
+
+html[data-theme="dark"] input[type="search"],
+html.dark-mode input[type="search"] {
+    border-radius: 8px !important;
+}
+
+html[data-theme="dark"] input[type="text"],
+html.dark-mode input[type="text"] {
+    border-radius: 8px !important;
+}
+
+/* Fix entire top container with search and buttons */
+html[data-theme="dark"] .aux-nav,
+html.dark-mode .aux-nav {
+    background-color: #1a202c !important;
+    border-radius: 16px !important;
+}
+
+html[data-theme="dark"] .aux-nav-list,
+html.dark-mode .aux-nav-list {
+    background-color: #1a202c !important;
+    border-radius: 16px !important;
+}
+
+html[data-theme="dark"] .aux-nav-list-item,
+html.dark-mode .aux-nav-list-item {
+    background-color: transparent !important;
+    border-radius: 16px !important;
+}
+
+/* More general selectors for top container */
+html[data-theme="dark"] .site-header > div,
+html.dark-mode .site-header > div {
+    border-radius: 16px !important;
+}
+
+html[data-theme="dark"] .header-content,
+html.dark-mode .header-content {
+    border-radius: 16px !important;
+}
+
+html[data-theme="dark"] .top-bar,
+html.dark-mode .top-bar {
+    border-radius: 16px !important;
+}
+
+html[data-theme="dark"] .header-nav,
+html.dark-mode .header-nav {
+    border-radius: 16px !important;
+}
+
+html[data-theme="dark"] .nav-container,
+html.dark-mode .nav-container {
+    border-radius: 16px !important;
+}
+
+/* Fix only schedule-specific description lists with darker background */
+html[data-theme="dark"] .schedule dl,
+html.dark-mode .schedule dl {
+    background-color: #000000 !important;
+    border-radius: 8px !important;
+    padding: 16px !important;
+    margin: 8px 0 !important;
+    border: 1px solid #4a5568 !important;
+    box-shadow: 0 8px 24px #ffffff, 0 4px 8px #ffffff !important;
+}
+
+html[data-theme="dark"] .schedule dl dt,
+html.dark-mode .schedule dl dt {
+    background-color: transparent !important;
+    color: #e2e8f0 !important;
+}
+
+html[data-theme="dark"] .schedule dl dd,
+html.dark-mode .schedule dl dd {
+    background-color: transparent !important;
+    color: #e2e8f0 !important;
+}
+
+html[data-theme="dark"] .schedule dl a,
+html.dark-mode .schedule dl a {
+    color: #63b3ed !important;
+}
+
+html[data-theme="dark"] .schedule dl a:hover,
+html.dark-mode .schedule dl a:hover {
+    color: #90cdf4 !important;
+}
