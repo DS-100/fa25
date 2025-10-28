@@ -7,7 +7,7 @@ Mon Oct 27
 Tue Oct 28
 : {% lec 17 %}
     : [Note 17 (Summer 2025)](https://ds100.org/course-notes/probability_1/probability_1.html)
-: **Lecture Participation 17**{: .label .label-survey } Slido
+: **Lecture Participation 17**{: .label .label-survey } [Slido](https://app.sli.do/event/tnhkjHvXkwWBPiGVRSGibP){:target="_blank"}
 : **Discussion 9**{: .label .label-disc } [Cross-Validation, Regularization, and Random Variables](https://drive.google.com/file/d/1IG5uZi7apq_8PzbMHl6jA10h6u8KsUfI/view?usp=sharing){:target="_blank"}
     : [Mini-Lecture](https://www.youtube.com/watch?v=fii089-AWeA&list=PLQCcNQgUcDfqhtaFtgl7syP-V2dWYQ81S&index=8){:target="_blank"}
 
