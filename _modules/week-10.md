@@ -13,7 +13,7 @@ Tue Oct 28
 
 Thu Oct 30
 : {% lec 18 %}
-: **Lecture Participation 18**{: .label .label-survey } Slido
+: **Lecture Participation 18**{: .label .label-survey } [Slido](https://app.sli.do/event/23HLLi8Z7JBASBm67MGw59){:target="_blank"}
 : **Lab 9**{: .label .label-lab }  Probability (due Wed 11/5)
 : **Homework 6**{: .label .label-hw } Probability (due Fri 11/7)
 
