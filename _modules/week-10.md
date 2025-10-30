@@ -13,6 +13,7 @@ Tue Oct 28
 
 Thu Oct 30
 : {% lec 18 %}
+    : [Note 18 (Summer 2025)](https://ds100.org/course-notes/probability_2/probability_2.html)
 : **Lecture Participation 18**{: .label .label-survey } [Slido](https://app.sli.do/event/23HLLi8Z7JBASBm67MGw59){:target="_blank"}
 : **Lab 9**{: .label .label-lab }  Probability (due Wed 11/5)
 : **Homework 6**{: .label .label-hw } Probability (due Fri 11/7)
