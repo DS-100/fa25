@@ -15,7 +15,7 @@ Thu Oct 30
 : {% lec 18 %}
     : [Note 18 (Summer 2025)](https://ds100.org/course-notes/probability_2/probability_2.html)
 : **Lecture Participation 18**{: .label .label-survey } [Slido](https://app.sli.do/event/23HLLi8Z7JBASBm67MGw59){:target="_blank"}
-: **Lab 9**{: .label .label-lab }  Probability (due Wed 11/5)
+: **Lab 9**{: .label .label-lab } [Probability](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab09%2Flab09.ipynb){:target="_blank"} (due Wed 11/5)
 : **Homework 6**{: .label .label-hw } [Coding](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Fhw%2Fhw06%2Fhw06.ipynb){:target="_blank"}, [Probability](https://drive.google.com/file/d/1TGK-cKFSHhARCmVDnRBiLRg6rhivSNp5/view?usp=sharing){:target="_blank"} (due Fri 11/7)
 
 Fri Oct 31
