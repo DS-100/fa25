@@ -3,6 +3,7 @@ title: Week 10
 ---
 Mon Oct 27
 : **Exam Prep 6**{: .label .label-examprep } [Feature Engineering, Cross Validation, and Regularization](https://drive.google.com/file/d/1m7RRYCvCvKwHJl6LSvP5Kfr37-ugDhEQ/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/11gR7zGLQRgH6GZ6h8RlB-0_y5OQzUr39/view?usp=sharing){:target="_blank"}, [Walkthrough](https://www.youtube.com/watch?v=lyN7_YCFdNw&list=PLQCcNQgUcDfp9alGSVc_anQKPSLA5H2S_&index=7){:target="_blank"}
 
 Tue Oct 28
 : {% lec 17 %}

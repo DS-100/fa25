@@ -1,6 +1,8 @@
 ---
 title: Week 11
 ---
+Mon Nov 3
+: **Exam Prep 7**{: .label .label-examprep } [Probability and Bias-Variance](https://drive.google.com/file/d/1Esy8GX09hl220a6k3WbbEmVkg8yOdP-i/view?usp=sharing){:target="_blank"}
 
 Tue Nov 4
 : {% lec 19 %}
