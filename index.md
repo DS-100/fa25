@@ -3,7 +3,7 @@ layout: page
 title: Home / Schedule
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
-currWeekNumber: 10
+currWeekNumber: 11
 ---
 
 # Data 100: Principles and Techniques of Data Science
