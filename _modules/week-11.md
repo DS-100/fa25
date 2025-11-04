@@ -8,7 +8,8 @@ Tue Nov 4
 : {% lec 19 %}
     <!-- : [Note 19](https://ds100.org/course-notes/inference_causality/inference_causality.html) -->
 : **Lecture Participation 19**{: .label .label-survey} Slido
-: **Discussion 10**{: .label .label-disc } Bias and Variance
+: **Discussion 10**{: .label .label-disc } [Bias and Variance](https://drive.google.com/file/d/166slRascbY4NgVAEyK4zbIZ32PcV1NPQ/view?usp=sharing){:target="_blank"}
+    : [Mini-Lecture](https://www.youtube.com/watch?v=bp7-OwxdGwg&list=PLQCcNQgUcDfqhtaFtgl7syP-V2dWYQ81S&index=9){:target="_blank"}
 
 Thu Nov 6
 : {% lec 20 %}
