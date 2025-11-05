@@ -7,7 +7,7 @@ Mon Nov 3
 Tue Nov 4
 : {% lec 19 %}
     : [Note 19 (Summer 2025)](https://ds100.org/course-notes/inference_causality/inference_causality.html)
-: **Lecture Participation 19**{: .label .label-survey} Slido
+: **Lecture Participation 19**{: .label .label-survey} [Slido](https://app.sli.do/event/jUEjYMc6r7KXZyVkvRbuvh){:target="_blank"}
 : **Discussion 10**{: .label .label-disc } [Bias and Variance](https://drive.google.com/file/d/166slRascbY4NgVAEyK4zbIZ32PcV1NPQ/view?usp=sharing){:target="_blank"}
     : [Mini-Lecture](https://www.youtube.com/watch?v=bp7-OwxdGwg&list=PLQCcNQgUcDfqhtaFtgl7syP-V2dWYQ81S&index=9){:target="_blank"}
 
