@@ -15,5 +15,5 @@ Thu Nov 6
 : {% lec 20 %}
     : [Note 20 (Summer 2025)](https://ds100.org/course-notes/sql_I/sql_I.html)
 : **Lecture Participation 20**{: .label .label-survey} [Slido](https://app.sli.do/event/hSAqKH4Cr8t4dALfKa7jKN){:target="_blank"}
-: **Lab 10**{: .label .label-lab } SQL (due Fri 11/14)
+: **Lab 10**{: .label .label-lab } [SQL](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab10%2Flab10.ipynb){:target="_blank"} (due Fri 11/14)
 : **Homework 7**{: .label .label-hw } SQL (due Mon 11/17)
