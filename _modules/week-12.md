@@ -1,6 +1,8 @@
 ---
 title: Week 12
 ---
+Mon Nov 10
+: **Exam Prep 8**{: .label .label-examprep } [Midterm 2 Prep](https://drive.google.com/file/d/1rMRNuvQpRh7kLMpSh3VImUhYjEMS4zEf/view?usp=sharing){:target="_blank"}
 
 Tue Nov 11
 : **Holiday**{: .label .label-exam} Veterans Day
