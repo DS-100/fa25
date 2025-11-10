@@ -9,7 +9,7 @@ Tue Nov 18
 : **Discussion 12**{: .label .label-disc } Midterm 2 Review
 
 Wed Nov 19
-: **Lab 11**{: .label .label-lab } Logistic Regression (due Mon 11/24)
+: **Lab 11**{: .label .label-lab } Logistic Regression (due Wed 11/26)
 
 Thu Nov 20
 : **No Lecture**{: .label .label-lecture}
