@@ -8,8 +8,10 @@ Tue Nov 18
 : **Lecture Participation 22**{: .label .label-survey} Slido
 : **Discussion 12**{: .label .label-disc } Midterm 2 Review
 
+Wed Nov 19
+: **Lab 11**{: .label .label-lab } Logistic Regression (due Mon 11/24)
+
 Thu Nov 20
 : **No Lecture**{: .label .label-lecture}
 : **Midterm 2**{: .label .label-exam } See [Syllabus](syllabus) for details
-: **Lab 12**{: .label .label-lab } PCA (due Wed 12/5)
 : **Project B1**{: .label .label-proj } Spam & Ham I (due Tue 12/2)
