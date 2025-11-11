@@ -10,7 +10,7 @@ Tue Nov 11
 
 Wed Nov 12
 : **Discussion 11**{: .label .label-disc } [SQL (RECORDED)](https://drive.google.com/file/d/1QhBgIVsWxqqGqvqcpkLtvmYCmTM6Qy5k/view?usp=sharing){:target="_blank"}
-    : [Mini-Lecture](https://www.youtube.com/watch?v=ZFq_yelFhDY&list=PLQCcNQgUcDfqhtaFtgl7syP-V2dWYQ81S&index=10){:target="_blank"}, [Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Fdisc%2Fdisc11%2Fdisc11_blank.ipynb){:target="_blank"}
+    : [Mini-Lecture](https://www.youtube.com/watch?v=ZFq_yelFhDY&list=PLQCcNQgUcDfqhtaFtgl7syP-V2dWYQ81S&index=10){:target="_blank"}, [Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Fdisc%2Fdisc11%2Fdisc11_blank.ipynb){:target="_blank"}, [Walkthrough](https://youtu.be/VmfeDMHgV6k){:target="_blank"}
 
 Thu Nov 13
 : {% lec 21 %}
