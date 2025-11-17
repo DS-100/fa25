@@ -17,4 +17,3 @@ Thu Nov 13
 : {% lec 21 %}
     : [Note 21](https://ds100.org/course-notes/sql_II/sql_II.html)
 : **Lecture Participation 21**{: .label .label-survey} [Slido](https://app.sli.do/event/bknZi4fkyrCSugJmQp7TbG){:target="_blank"}
-: **Lab 11**{: .label .label-lab } Logistic Regression (due Mon 11/24)
