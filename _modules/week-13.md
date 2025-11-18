@@ -4,7 +4,7 @@ title: Week 13
 
 Tue Nov 18
 : {% lec 22 %}
-    <!-- : [Note 22](https://ds100.org/course-notes/logistic_regression_1/logistic_reg_1.html) -->
+    : [Note 22 (Summer 2025)](https://ds100.org/course-notes/logistic_regression_1/logistic_reg_1.html) 
 : **Lecture Participation 22**{: .label .label-survey} Slido
 : **Discussion 12**{: .label .label-disc } [Midterm 2 Review](https://drive.google.com/file/d/11mH_rkmv3vizX1pGFU52pxcs2gK7l6Bx/view?usp=sharing){:target="_blank"}
 
