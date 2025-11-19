@@ -7,6 +7,7 @@ Tue Nov 18
     : [Note 22 (Summer 2025)](https://ds100.org/course-notes/logistic_regression_1/logistic_reg_1.html) 
 : **Lecture Participation 22**{: .label .label-survey} [Slido](https://app.sli.do/event/91hyDUFxQrxidhVy3HjKmB){:target="_blank"}
 : **Discussion 12**{: .label .label-disc } [Midterm 2 Review](https://drive.google.com/file/d/11mH_rkmv3vizX1pGFU52pxcs2gK7l6Bx/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/1Hdr-dozSZYFZnKJKOLTk3I-E4CJBNuyr/view?usp=sharing){:target="_blank"}
 
 Wed Nov 19
 : **Lab 11**{: .label .label-lab } Logistic Regression (due Wed 11/26)
