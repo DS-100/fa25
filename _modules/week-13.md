@@ -10,7 +10,7 @@ Tue Nov 18
     : [Solutions](https://drive.google.com/file/d/1Hdr-dozSZYFZnKJKOLTk3I-E4CJBNuyr/view?usp=sharing){:target="_blank"}
 
 Wed Nov 19
-: **Lab 11**{: .label .label-lab } Logistic Regression (due Wed 11/26)
+: **Lab 11**{: .label .label-lab } [Logistic Regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab11%2Flab11.ipynb){:target="_blank"} (due Wed 11/26)
 
 Thu Nov 20
 : **No Lecture**{: .label .label-lecture}
