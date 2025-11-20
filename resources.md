@@ -16,7 +16,7 @@ Jump to:
 {:toc}
 
 ## Reference Sheet
-Here is this semester's [Midterm 1 Reference Sheet](https://static.us.edusercontent.com/files/wiJPEQvUNoFSGq5i69NVBfY8){:target="_blank"}, as well as Summer 2025's [Midterm Reference Sheet](assets\exams\su25\su25_mt_reference_sheet.pdf) and [Final Reference Sheet](assets\exams\su25\su25_final_reference_sheet.pdf).
+Here is this semester's [Midterm 1 Reference Sheet](assets/exams/fa25/fa25_mt1_reference_sheet.pdf){:target="_blank"} and [Midterm 2 Reference Sheet](assets/exams/fa25/fa25_mt2_reference_sheet.pdf){:target="_blank"}, as well as Summer 2025's [Midterm Reference Sheet](assets\exams\su25\su25_mt_reference_sheet.pdf) and [Final Reference Sheet](assets\exams\su25\su25_final_reference_sheet.pdf).
 
 ## Supplementary Course Notes
 Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes/). 
@@ -37,6 +37,7 @@ You can also review [Exam Questions by Topic](https://docs.google.com/document/d
 
 | Semester | Midterm 1 | Midterm 2  | Final | Reference Sheet |
 | -- | -- | -- | -- | -- |
+| Fall 2025 | [Exam](assets/exams/fa25/fa25_mt1.pdf) [(Solutions)](assets/exams/fa25/fa25_mt1_sol.pdf) | | | [Midterm 1](assets/exams/fa25/fa25_mt1_reference_sheet.pdf), [Midterm 2](assets/exams/fa25/fa25_mt2_reference_sheet.pdf) |
 |Summer 2025| [Exam](assets/exams/su25/su25_mt.pdf) [(Solutions)](assets/exams/su25/su25_mt_sol.pdf)| | [Exam](assets/exams/su25/su25_final.pdf) [(Solutions)](assets/exams/su25/su25_final_sol.pdf) [[Walkthrough]](https://youtube.com/playlist?list=PLQCcNQgUcDfoGX920st6YRyxXni6YSTkM&si=rr5MdhgeO8PtWv2A) | [Midterm](assets\exams\su25\su25_mt_reference_sheet.pdf), [Final](assets\exams\su25\su25_final_reference_sheet.pdf) |
 |Spring 2025| [Exam](assets/exams/sp25/sp25_mt.pdf) [(Solutions)](assets/exams/sp25/sp25_mt_sols.pdf)| | [Exam](assets/exams/sp25/sp25_final.pdf) [(Solutions)](assets/exams/sp25/sp25_final_sols.pdf) [[Walkthrough]](https://youtube.com/playlist?list=PLQCcNQgUcDfr2ggtc5wQztSRAC0gxsGS_&si=jw7AkdeeRQX6d0qW) | [Midterm](assets\exams\sp25\sp25_mt_reference_sheet.pdf), [Final](assets\exams\sp25\sp25_final_reference_sheet.pdf) |
 |Fall 2024| [Exam](assets/exams/fa24/fa24_mt.pdf) [(Solutions)](assets/exams/fa24/fa24_midterm_sol.pdf)| | [Exam](assets/exams/fa24/fa24_finals_qs.pdf) [(Solutions)](assets/exams/fa24/fa24_finals_sols.pdf) [[Walkthrough]](https://youtube.com/playlist?list=PLQCcNQgUcDfoqRiBXv4__291vNRYDDFDY&si=ehVUMkuNGYKdzXxd) | [Midterm](assets\exams\fa24\fa24_mt_reference_sheet.pdf), [Final](assets\exams\fa24\fa24_final_reference_sheet.pdf) |
