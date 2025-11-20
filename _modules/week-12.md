@@ -17,3 +17,4 @@ Thu Nov 13
 : {% lec 21 %}
     : [Note 21](https://ds100.org/course-notes/sql_II/sql_II.html)
 : **Lecture Participation 21**{: .label .label-survey} [Slido](https://app.sli.do/event/bknZi4fkyrCSugJmQp7TbG){:target="_blank"}
+: **Lab 11**{: .label .label-lab } [Logistic Regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab11%2Flab11.ipynb){:target="_blank"} (due Mon 11/24)
