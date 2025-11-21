@@ -15,4 +15,4 @@ Wed Nov 19
 Thu Nov 20
 : **No Lecture**{: .label .label-lecture}
 : **Midterm 2**{: .label .label-exam } See [Syllabus](syllabus) for details
-: **Project B1**{: .label .label-proj } Spam & Ham I (due Tue 12/2)
+: **Project B1**{: .label .label-proj } [Spam & Ham I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Fproj%2FprojB1%2FprojB1.ipynb){:target="_blank"} (due Tue 12/2)
