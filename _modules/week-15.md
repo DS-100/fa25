@@ -3,6 +3,7 @@ title: Week 15
 ---
 
 Mon Dec 1
+: **Exam Prep 10**{: .label .label-examprep } [Logistic Regression, PCA, and Clustering](https://drive.google.com/file/d/1xbU_8yaqTy4HUpiweMhfhVbnSw4I3632/view?usp=sharing){:target="_blank"}
 : **Project B2**{: .label .label-proj } Spam & Ham II (due Tue 12/9) 
 
 Tue Dec 2
