@@ -4,7 +4,7 @@ title: Week 14
 
 Mon Nov 24
 : **Exam Prep 9**{: .label .label-examprep} [SQL + Logistic Regression](https://drive.google.com/file/d/1N-3Sce4bfRjKWVEYOn72-NNnZvkOAhGW/view?usp=sharing){:target="_blank"}
-    : [Solutions](https://drive.google.com/file/d/1zTVcGRmJxjA6HQAGNQsyCLWfVnQJJmV9/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/1zTVcGRmJxjA6HQAGNQsyCLWfVnQJJmV9/view?usp=sharing){:target="_blank"}, [Walkthrough](https://youtu.be/Hl_uxtSDgNE){:target="_blank"}
 
 Tue Nov 25
 : {% lec 23 %}
