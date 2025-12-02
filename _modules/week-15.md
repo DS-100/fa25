@@ -9,7 +9,7 @@ Mon Dec 1
 Tue Dec 2
 : {% lec 24 %}
     <!-- : [Note 24](https://ds100.org/course-notes/pca_2/pca_2.html) -->
-: **Lecture Participation 24**{: .label .label-survey} Slido
+: **Lecture Participation 24**{: .label .label-survey} [Slido](https://app.sli.do/event/tZDirCN9VEcCFNnhG1yoU6){:target="_blank"}
 : **Discussion 14**{: .label .label-disc } [PCA and Clustering](https://drive.google.com/file/d/1Gsuk6bayxMpAh7P58tOwOPLfSETSzlLz/view?usp=sharing){:target="_blank"}
     : [Mini-Lecture](https://youtu.be/kZzhgzMFnDU){:target="_blank"}
 
