@@ -16,7 +16,7 @@ Jump to:
 {:toc}
 
 ## Reference Sheet
-Here is this semester's [Midterm 1 Reference Sheet](assets/exams/fa25/fa25_mt1_reference_sheet.pdf){:target="_blank"} and [Midterm 2 Reference Sheet](assets/exams/fa25/fa25_mt2_reference_sheet.pdf){:target="_blank"}, as well as Summer 2025's [Midterm Reference Sheet](assets\exams\su25\su25_mt_reference_sheet.pdf) and [Final Reference Sheet](assets\exams\su25\su25_final_reference_sheet.pdf).
+Here is this semester's [Midterm 1 Reference Sheet](assets/exams/fa25/fa25_mt1_reference_sheet.pdf){:target="_blank"} and [Midterm 2 Reference Sheet](assets/exams/fa25/fa25_mt2_reference_sheet.pdf){:target="_blank"}, as well as Summer 2025's [Final Reference Sheet](assets\exams\su25\su25_final_reference_sheet.pdf).
 
 ## Supplementary Course Notes
 Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes/). 
@@ -35,7 +35,7 @@ Textbook readings are purely optional, and may contain material that is not in s
 
 You can also review [Exam Questions by Topic](https://docs.google.com/document/d/1jS12lDvFtYiufBPmNPfGDAoJ7blsekDLlCZz7G-lscQ/edit?usp=sharing){:target="_blank"} here.
 
-| Semester | Midterm 1 | Midterm 2  | Final | Reference Sheet |
+| Semester | Midterm 1 | Midterm 2 | Final | Reference Sheet |
 | -- | -- | -- | -- | -- |
 | Fall 2025 | [Exam](assets/exams/fa25/fa25_mt1.pdf) [(Solutions)](assets/exams/fa25/fa25_mt1_sol.pdf) | [Exam](assets/exams/fa25/fa25_mt2.pdf) [(Solutions)](assets/exams/fa25/fa25_mt2_sol.pdf) | | [Midterm 1](assets/exams/fa25/fa25_mt1_reference_sheet.pdf), [Midterm 2](assets/exams/fa25/fa25_mt2_reference_sheet.pdf) |
 |Summer 2025| [Exam](assets/exams/su25/su25_mt.pdf) [(Solutions)](assets/exams/su25/su25_mt_sol.pdf)| | [Exam](assets/exams/su25/su25_final.pdf) [(Solutions)](assets/exams/su25/su25_final_sol.pdf) [[Walkthrough]](https://youtube.com/playlist?list=PLQCcNQgUcDfoGX920st6YRyxXni6YSTkM&si=rr5MdhgeO8PtWv2A) | [Midterm](assets\exams\su25\su25_mt_reference_sheet.pdf), [Final](assets\exams\su25\su25_final_reference_sheet.pdf) |
