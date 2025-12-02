@@ -3,9 +3,8 @@ title: Week 15
 ---
 
 Mon Dec 1
-: **Exam Prep 10**{: .label .label-examprep } [Logistic Regression, PCA, and Clustering](https://drive.google.com/file/d/1xbU_8yaqTy4HUpiweMhfhVbnSw4I3632/view?usp=sharing){:target="_blank"}
-<!--: **Project B2**{: .label .label-proj } [Spam & Ham II](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Fproj%2FprojB2%2FprojB2.ipynb){:target="_blank"} (due Tue 12/9) -->
-: **Project B2**{: .label .label-proj } Spam & Ham II (due Tue 12/9) 
+: **Exam Prep 10**{: .label .label-examprep } [Logistic Recomgression, PCA, and Clustering](https://drive.google.com/file/d/1xbU_8yaqTy4HUpiweMhfhVbnSw4I3632/view?usp=sharing){:target="_blank"}
+: **Project B2**{: .label .label-proj } [Spam & Ham II](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Fproj%2FprojB2%2FprojB2.ipynb){:target="_blank"} (due Tue 12/9)
 
 Tue Dec 2
 : {% lec 24 %}
