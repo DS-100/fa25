@@ -12,7 +12,7 @@ Tue Nov 25
 : **Lecture Participation 23**{: .label .label-survey} [Slido](https://app.sli.do/event/8oQn5dPUd3bNq4qLT4WbZG){:target="_blank"}
 : **Discussion 13**{: .label .label-disc} [Logistic Regression (RECORDED)](https://drive.google.com/file/d/1nGnxErVJ4Qh96nebJ9ZI-18q1-oFKRUd/view?usp=sharing){:target="_blank"}
     : [Mini-Lecture](https://youtu.be/fseH10rEg3w){:target="_blank"}, [Walkthrough](https://youtu.be/ktWDKMyPXWo){:target="_blank"}, [Solutions](https://drive.google.com/file/d/1uPRJ_WZjU7BG-fSpBI_VGrImSdFMr5Hp/view?usp=sharing){:target="_blank"}
-: **Lab 12**{: .label .label-lab} [PCA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab12%2Flab12.ipynb){:target="_blank"} (due Fri 12/5)
+: **Lab 12**{: .label .label-lab} [PCA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab12%2Flab12.ipynb){:target="_blank"} (due Wed 12/10)
 
 Thu Nov 27
 : **Holiday**{: .label .label-exam} Thanksgiving
