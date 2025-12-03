@@ -11,7 +11,7 @@ Tue Dec 2
     : [Note 24 (Summer 2025)](https://ds100.org/course-notes/clustering/clustering.html)
 : **Lecture Participation 24**{: .label .label-survey} [Slido](https://app.sli.do/event/tZDirCN9VEcCFNnhG1yoU6){:target="_blank"}
 : **Discussion 14**{: .label .label-disc } [PCA and Clustering](https://drive.google.com/file/d/1Gsuk6bayxMpAh7P58tOwOPLfSETSzlLz/view?usp=sharing){:target="_blank"}
-    : [Mini-Lecture](https://youtu.be/kZzhgzMFnDU){:target="_blank"}
+    : [Mini-Lecture](https://youtu.be/kZzhgzMFnDU){:target="_blank"}, [Solutions](https://drive.google.com/file/d/12dZpF3L2piPHF-pZC-jo3RMet-OwzWdW/view?usp=sharing){:target="_blank"}
 
 Thu Dec 4
 : {% lec 25 %}
