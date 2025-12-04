@@ -15,5 +15,5 @@ Tue Dec 2
 
 Thu Dec 4
 : {% lec 25 %}
-: **Lecture Participation 25**{: .label .label-survey} Slido
+: **Lecture Participation 25**{: .label .label-survey} [Slido](https://app.sli.do/event/s6u23MyGSWydE3FNEFaYH1){:target="_blank"}
 : **Lab 13**{: .label .label-lab } Clustering (due Wed 12/10)
