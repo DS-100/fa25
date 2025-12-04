@@ -3,7 +3,7 @@ title: Week 15
 ---
 
 Mon Dec 1
-: **Exam Prep 10**{: .label .label-examprep } [Logistic Recomgression, PCA, and Clustering](https://drive.google.com/file/d/1xbU_8yaqTy4HUpiweMhfhVbnSw4I3632/view?usp=sharing){:target="_blank"}
+: **Exam Prep 10**{: .label .label-examprep } [Logistic Regression, PCA, and Clustering](https://drive.google.com/file/d/1xbU_8yaqTy4HUpiweMhfhVbnSw4I3632/view?usp=sharing){:target="_blank"}
 : **Project B2**{: .label .label-proj } [Spam & Ham II](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Fproj%2FprojB2%2FprojB2.ipynb){:target="_blank"} (due Tue 12/9)
 
 Tue Dec 2
@@ -16,4 +16,4 @@ Tue Dec 2
 Thu Dec 4
 : {% lec 25 %}
 : **Lecture Participation 25**{: .label .label-survey} [Slido](https://app.sli.do/event/s6u23MyGSWydE3FNEFaYH1){:target="_blank"}
-: **Lab 13**{: .label .label-lab } Clustering (due Wed 12/10)
+: **Lab 13**{: .label .label-lab } [Clustering](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab13%2Flab13.ipynb){:target="_blank"} (due Wed 12/10)
