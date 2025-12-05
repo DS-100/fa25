@@ -15,5 +15,6 @@ Tue Dec 2
 
 Thu Dec 4
 : {% lec 25 %}
+    : [Note 25 (Summer 2025)](https://ds100.org/course-notes/pca_1/pca_1.html), [Note 26 (Summer 2025)](https://ds100.org/course-notes/pca_2/pca_2.html)
 : **Lecture Participation 25**{: .label .label-survey} [Slido](https://app.sli.do/event/s6u23MyGSWydE3FNEFaYH1){:target="_blank"}
 : **Lab 13**{: .label .label-lab } [Clustering](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab13%2Flab13.ipynb){:target="_blank"} (due Wed 12/10)
