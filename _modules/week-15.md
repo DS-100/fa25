@@ -9,13 +9,13 @@ Mon Dec 1
 
 Tue Dec 2
 : {% lec 24 %}
-    : [Note 24 (Summer 2025)](https://ds100.org/course-notes/clustering/clustering.html)
+    : [Note 24](https://ds100.org/course-notes/clustering/clustering.html)
 : **Lecture Participation 24**{: .label .label-survey} [Slido](https://app.sli.do/event/tZDirCN9VEcCFNnhG1yoU6){:target="_blank"}
 : **Discussion 14**{: .label .label-disc } [PCA and Clustering](https://drive.google.com/file/d/1Gsuk6bayxMpAh7P58tOwOPLfSETSzlLz/view?usp=sharing){:target="_blank"}
     : [Mini-Lecture](https://youtu.be/kZzhgzMFnDU){:target="_blank"}, [Solutions](https://drive.google.com/file/d/12dZpF3L2piPHF-pZC-jo3RMet-OwzWdW/view?usp=sharing){:target="_blank"}
 
 Thu Dec 4
 : {% lec 25 %}
-    : [Note 25 (Summer 2025)](https://ds100.org/course-notes/pca_1/pca_1.html), [Note 26 (Summer 2025)](https://ds100.org/course-notes/pca_2/pca_2.html)
+    : [Note 25](https://ds100.org/course-notes/pca/pca.html)
 : **Lecture Participation 25**{: .label .label-survey} [Slido](https://app.sli.do/event/s6u23MyGSWydE3FNEFaYH1){:target="_blank"}
 : **Lab 13**{: .label .label-lab } [Clustering](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa25-student&branch=main&urlpath=lab%2Ftree%2Ffa25-student%2Flab%2Flab13%2Flab13.ipynb){:target="_blank"} (due Wed 12/10)
