@@ -10,5 +10,5 @@ Tue Dec 9
 : {% lec 26 %}
 
 Thu Dec 11
-: **Final Review**{: .label .label-review} Final Review Session
+: {% lec 27 %}
 
