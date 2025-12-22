@@ -16,7 +16,7 @@ Jump to:
 {:toc}
 
 ## Reference Sheet
-Here is this semester's [Midterm 1 Reference Sheet](assets/exams/fa25/fa25_mt1_reference_sheet.pdf){:target="_blank"} and [Midterm 2 Reference Sheet](assets/exams/fa25/fa25_mt2_reference_sheet.pdf){:target="_blank"}, as well as Summer 2025's [Final Reference Sheet](assets\exams\su25\su25_final_reference_sheet.pdf).
+Here were Fall 2025's reference sheets for [Midterm 1](assets/exams/fa25/fa25_mt1_reference_sheet.pdf){:target="_blank"}, [Midterm 2](assets/exams/fa25/fa25_mt2_reference_sheet.pdf){:target="_blank"}, and [Final](assets\exams\fa25\fa25_final_reference_sheet.pdf){:target="_blank"}.
 
 ## Supplementary Course Notes
 Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes/). 
